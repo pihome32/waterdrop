@@ -1,0 +1,915 @@
+D:\_VB_Projects\dropController_PC\dropController_PC\bin\Release\dropController_PC.exe.config
+D:\_VB_Projects\dropController_PC\dropController_PC\bin\Release\dropController_PC.exe
+D:\_VB_Projects\dropController_PC\dropController_PC\bin\Release\dropController_PC.pdb
+D:\_VB_Projects\dropController_PC\dropController_PC\bin\Release\dropController_PC.xml
+D:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.mainForm.resources
+D:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.loopPage.resources
+D:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.MessageBox.resources
+D:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.Resources.resources
+D:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.settingsForm.resources
+D:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+D:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.exe
+D:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.xml
+D:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.pdb
+L:\_VB_Projects\dropController_PC\dropController_PC\bin\Release\dropController_PC.exe.config
+L:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.exe
+L:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.xml
+L:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.pdb
+L:\_VB_Projects\dropController_PC\dropController_PC\bin\Release\dropController_PC.exe
+L:\_VB_Projects\dropController_PC\dropController_PC\bin\Release\dropController_PC.pdb
+L:\_VB_Projects\dropController_PC\dropController_PC\bin\Release\dropController_PC.xml
+L:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.mainForm.resources
+L:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.loopPage.resources
+L:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.MessageBox.resources
+L:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.Resources.resources
+L:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.settingsForm.resources
+L:\_VB_Projects\dropController_PC\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+L:\_dropControllerPC_PROJECT\dropController_PC\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+L:\_dropControllerPC_PROJECT\dropController_PC\dropController_PC\bin\Release\dropControllerPC.exe.config
+L:\_dropControllerPC_PROJECT\dropController_PC\dropController_PC\bin\Release\dropControllerPC.exe
+L:\_dropControllerPC_PROJECT\dropController_PC\dropController_PC\bin\Release\dropControllerPC.pdb
+L:\_dropControllerPC_PROJECT\dropController_PC\dropController_PC\bin\Release\dropControllerPC.xml
+L:\_dropControllerPC_PROJECT\dropController_PC\dropController_PC\obj\Release\dropControllerPC.AboutBox1.resources
+L:\_dropControllerPC_PROJECT\dropController_PC\dropController_PC\obj\Release\dropControllerPC.mainForm.resources
+L:\_dropControllerPC_PROJECT\dropController_PC\dropController_PC\obj\Release\dropControllerPC.loopPage.resources
+L:\_dropControllerPC_PROJECT\dropController_PC\dropController_PC\obj\Release\dropControllerPC.MessageBox.resources
+L:\_dropControllerPC_PROJECT\dropController_PC\dropController_PC\obj\Release\dropControllerPC.Resources.resources
+L:\_dropControllerPC_PROJECT\dropController_PC\dropController_PC\obj\Release\dropControllerPC.settingsForm.resources
+L:\_dropControllerPC_PROJECT\dropController_PC\dropController_PC\obj\Release\dropControllerPC.exe
+L:\_dropControllerPC_PROJECT\dropController_PC\dropController_PC\obj\Release\dropControllerPC.xml
+L:\_dropControllerPC_PROJECT\dropController_PC\dropController_PC\obj\Release\dropControllerPC.pdb
+L:\_dropControllerPC_PROJECT\dropController_PC 004 with menu\dropController_PC\bin\Release\dropControllerPC.exe.config
+L:\_dropControllerPC_PROJECT\dropController_PC 004 with menu\dropController_PC\obj\Release\dropControllerPC.exe
+L:\_dropControllerPC_PROJECT\dropController_PC 004 with menu\dropController_PC\obj\Release\dropControllerPC.xml
+L:\_dropControllerPC_PROJECT\dropController_PC 004 with menu\dropController_PC\obj\Release\dropControllerPC.pdb
+L:\_dropControllerPC_PROJECT\dropController_PC 004 with menu\dropController_PC\bin\Release\dropControllerPC.exe
+L:\_dropControllerPC_PROJECT\dropController_PC 004 with menu\dropController_PC\bin\Release\dropControllerPC.pdb
+L:\_dropControllerPC_PROJECT\dropController_PC 004 with menu\dropController_PC\bin\Release\dropControllerPC.xml
+L:\_dropControllerPC_PROJECT\dropController_PC 004 with menu\dropController_PC\obj\Release\dropControllerPC.AboutBox1.resources
+L:\_dropControllerPC_PROJECT\dropController_PC 004 with menu\dropController_PC\obj\Release\dropControllerPC.mainForm.resources
+L:\_dropControllerPC_PROJECT\dropController_PC 004 with menu\dropController_PC\obj\Release\dropControllerPC.loopPage.resources
+L:\_dropControllerPC_PROJECT\dropController_PC 004 with menu\dropController_PC\obj\Release\dropControllerPC.MessageBox.resources
+L:\_dropControllerPC_PROJECT\dropController_PC 004 with menu\dropController_PC\obj\Release\dropControllerPC.Resources.resources
+L:\_dropControllerPC_PROJECT\dropController_PC 004 with menu\dropController_PC\obj\Release\dropControllerPC.settingsForm.resources
+L:\_dropControllerPC_PROJECT\dropController_PC 004 with menu\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+D:\VB\dropController_PC TEST\dropController_PC\bin\Release\dropControllerPC.exe.config
+D:\VB\dropController_PC TEST\dropController_PC\obj\Release\dropControllerPC.exe
+D:\VB\dropController_PC TEST\dropController_PC\obj\Release\dropControllerPC.xml
+D:\VB\dropController_PC TEST\dropController_PC\obj\Release\dropControllerPC.pdb
+D:\VB\dropController_PC TEST\dropController_PC\bin\Release\dropControllerPC.exe
+D:\VB\dropController_PC TEST\dropController_PC\bin\Release\dropControllerPC.pdb
+D:\VB\dropController_PC TEST\dropController_PC\bin\Release\dropControllerPC.xml
+D:\VB\dropController_PC TEST\dropController_PC\obj\Release\dropControllerPC.AboutBox1.resources
+D:\VB\dropController_PC TEST\dropController_PC\obj\Release\dropControllerPC.mainForm.resources
+D:\VB\dropController_PC TEST\dropController_PC\obj\Release\dropControllerPC.loopPage.resources
+D:\VB\dropController_PC TEST\dropController_PC\obj\Release\dropControllerPC.MessageBox.resources
+D:\VB\dropController_PC TEST\dropController_PC\obj\Release\dropControllerPC.Resources.resources
+D:\VB\dropController_PC TEST\dropController_PC\obj\Release\dropControllerPC.settingsForm.resources
+D:\VB\dropController_PC TEST\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+D:\VB\dropControllerPC_BT_net4\dropController_PC\bin\Release\dropControllerPC.exe.config
+D:\VB\dropControllerPC_BT_net4\dropController_PC\obj\Release\dropControllerPC.exe
+D:\VB\dropControllerPC_BT_net4\dropController_PC\obj\Release\dropControllerPC.xml
+D:\VB\dropControllerPC_BT_net4\dropController_PC\obj\Release\dropControllerPC.pdb
+D:\VB\dropControllerPC_BT_net4\dropController_PC\bin\Release\dropControllerPC.exe
+D:\VB\dropControllerPC_BT_net4\dropController_PC\bin\Release\dropControllerPC.pdb
+D:\VB\dropControllerPC_BT_net4\dropController_PC\bin\Release\dropControllerPC.xml
+D:\VB\dropControllerPC_BT_net4\dropController_PC\obj\Release\dropControllerPC.AboutBox1.resources
+D:\VB\dropControllerPC_BT_net4\dropController_PC\obj\Release\dropControllerPC.mainForm.resources
+D:\VB\dropControllerPC_BT_net4\dropController_PC\obj\Release\dropControllerPC.loopPage.resources
+D:\VB\dropControllerPC_BT_net4\dropController_PC\obj\Release\dropControllerPC.MessageBox.resources
+D:\VB\dropControllerPC_BT_net4\dropController_PC\obj\Release\dropControllerPC.Resources.resources
+D:\VB\dropControllerPC_BT_net4\dropController_PC\obj\Release\dropControllerPC.settingsForm.resources
+D:\VB\dropControllerPC_BT_net4\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+D:\VB\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\bin\Release\dropControllerPC.exe.config
+D:\VB\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.exe
+D:\VB\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.xml
+D:\VB\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.pdb
+D:\VB\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\bin\Release\dropControllerPC.exe
+D:\VB\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\bin\Release\dropControllerPC.pdb
+D:\VB\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\bin\Release\dropControllerPC.xml
+D:\VB\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.AboutBox1.resources
+D:\VB\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.mainForm.resources
+D:\VB\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.loopPage.resources
+D:\VB\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.MessageBox.resources
+D:\VB\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.Resources.resources
+D:\VB\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.settingsForm.resources
+D:\VB\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+L:\Websites - Blogs\_DROPCONTROLLER.COM\_dropControllerPC dev\2014-04-24\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\bin\Release\dropControllerPC.exe.config
+L:\Websites - Blogs\_DROPCONTROLLER.COM\_dropControllerPC dev\2014-04-24\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.exe
+L:\Websites - Blogs\_DROPCONTROLLER.COM\_dropControllerPC dev\2014-04-24\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.xml
+L:\Websites - Blogs\_DROPCONTROLLER.COM\_dropControllerPC dev\2014-04-24\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.pdb
+L:\Websites - Blogs\_DROPCONTROLLER.COM\_dropControllerPC dev\2014-04-24\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\bin\Release\dropControllerPC.exe
+L:\Websites - Blogs\_DROPCONTROLLER.COM\_dropControllerPC dev\2014-04-24\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\bin\Release\dropControllerPC.pdb
+L:\Websites - Blogs\_DROPCONTROLLER.COM\_dropControllerPC dev\2014-04-24\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\bin\Release\dropControllerPC.xml
+L:\Websites - Blogs\_DROPCONTROLLER.COM\_dropControllerPC dev\2014-04-24\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.AboutBox1.resources
+L:\Websites - Blogs\_DROPCONTROLLER.COM\_dropControllerPC dev\2014-04-24\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.mainForm.resources
+L:\Websites - Blogs\_DROPCONTROLLER.COM\_dropControllerPC dev\2014-04-24\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.loopPage.resources
+L:\Websites - Blogs\_DROPCONTROLLER.COM\_dropControllerPC dev\2014-04-24\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.MessageBox.resources
+L:\Websites - Blogs\_DROPCONTROLLER.COM\_dropControllerPC dev\2014-04-24\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.Resources.resources
+L:\Websites - Blogs\_DROPCONTROLLER.COM\_dropControllerPC dev\2014-04-24\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropControllerPC.settingsForm.resources
+L:\Websites - Blogs\_DROPCONTROLLER.COM\_dropControllerPC dev\2014-04-24\dropControllerPC_BT_1.1.0.0_add_timer\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+E:\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\bin\Release\dropControllerPC.exe.config
+E:\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.exe
+E:\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.xml
+E:\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.pdb
+E:\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\bin\Release\dropControllerPC.exe
+E:\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\bin\Release\dropControllerPC.pdb
+E:\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\bin\Release\dropControllerPC.xml
+E:\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.AboutBox1.resources
+E:\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.mainForm.resources
+E:\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.loopPage.resources
+E:\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.MessageBox.resources
+E:\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.Resources.resources
+E:\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.settingsForm.resources
+E:\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\bin\Release\dropControllerPC.exe.config
+C:\Users\USER\Desktop\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.exe
+C:\Users\USER\Desktop\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.xml
+C:\Users\USER\Desktop\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.pdb
+C:\Users\USER\Desktop\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\bin\Release\dropControllerPC.exe
+C:\Users\USER\Desktop\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\bin\Release\dropControllerPC.pdb
+C:\Users\USER\Desktop\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\bin\Release\dropControllerPC.xml
+C:\Users\USER\Desktop\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.AboutBox1.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.mainForm.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.loopPage.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.MessageBox.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.Resources.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.settingsForm.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.1.0.0_adding_drain_buttons_NC\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_adding_drain_buttons_NC\dropController_PC\bin\Release\dropControllerPC.exe.config
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.exe
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.xml
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.pdb
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_adding_drain_buttons_NC\dropController_PC\bin\Release\dropControllerPC.exe
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_adding_drain_buttons_NC\dropController_PC\bin\Release\dropControllerPC.pdb
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_adding_drain_buttons_NC\dropController_PC\bin\Release\dropControllerPC.xml
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.AboutBox1.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.mainForm.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.loopPage.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.MessageBox.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.Resources.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_adding_drain_buttons_NC\dropController_PC\obj\Release\dropControllerPC.settingsForm.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_adding_drain_buttons_NC\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_added the extra valve drain buttons\dropController_PC\bin\Release\dropControllerPC.exe.config
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_added the extra valve drain buttons\dropController_PC\obj\Release\dropControllerPC.exe
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_added the extra valve drain buttons\dropController_PC\obj\Release\dropControllerPC.xml
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_added the extra valve drain buttons\dropController_PC\obj\Release\dropControllerPC.pdb
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_added the extra valve drain buttons\dropController_PC\bin\Release\dropControllerPC.exe
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_added the extra valve drain buttons\dropController_PC\bin\Release\dropControllerPC.pdb
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_added the extra valve drain buttons\dropController_PC\bin\Release\dropControllerPC.xml
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_added the extra valve drain buttons\dropController_PC\obj\Release\dropControllerPC.AboutBox1.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_added the extra valve drain buttons\dropController_PC\obj\Release\dropControllerPC.mainForm.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_added the extra valve drain buttons\dropController_PC\obj\Release\dropControllerPC.loopPage.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_added the extra valve drain buttons\dropController_PC\obj\Release\dropControllerPC.MessageBox.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_added the extra valve drain buttons\dropController_PC\obj\Release\dropControllerPC.Resources.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_added the extra valve drain buttons\dropController_PC\obj\Release\dropControllerPC.settingsForm.resources
+C:\Users\USER\Desktop\dropControllerPC_BT_1.2.0.1_added the extra valve drain buttons\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\dropController_WindowsApp_1.2.0.2\dropController_PC\bin\Release\dropControllerPC.exe.config
+C:\Users\USER\Desktop\dropController_WindowsApp_1.2.0.2\dropController_PC\obj\Release\dropControllerPC.exe
+C:\Users\USER\Desktop\dropController_WindowsApp_1.2.0.2\dropController_PC\obj\Release\dropControllerPC.xml
+C:\Users\USER\Desktop\dropController_WindowsApp_1.2.0.2\dropController_PC\obj\Release\dropControllerPC.pdb
+C:\Users\USER\Desktop\dropController_WindowsApp_1.2.0.2\dropController_PC\bin\Release\dropControllerPC.exe
+C:\Users\USER\Desktop\dropController_WindowsApp_1.2.0.2\dropController_PC\bin\Release\dropControllerPC.pdb
+C:\Users\USER\Desktop\dropController_WindowsApp_1.2.0.2\dropController_PC\bin\Release\dropControllerPC.xml
+C:\Users\USER\Desktop\dropController_WindowsApp_1.2.0.2\dropController_PC\obj\Release\dropControllerPC.AboutBox1.resources
+C:\Users\USER\Desktop\dropController_WindowsApp_1.2.0.2\dropController_PC\obj\Release\dropControllerPC.mainForm.resources
+C:\Users\USER\Desktop\dropController_WindowsApp_1.2.0.2\dropController_PC\obj\Release\dropControllerPC.loopPage.resources
+C:\Users\USER\Desktop\dropController_WindowsApp_1.2.0.2\dropController_PC\obj\Release\dropControllerPC.MessageBox.resources
+C:\Users\USER\Desktop\dropController_WindowsApp_1.2.0.2\dropController_PC\obj\Release\dropControllerPC.Resources.resources
+C:\Users\USER\Desktop\dropController_WindowsApp_1.2.0.2\dropController_PC\obj\Release\dropControllerPC.settingsForm.resources
+C:\Users\USER\Desktop\dropController_WindowsApp_1.2.0.2\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+D:\dropController\dropController_WindowsApp_1.2.0.2 source files\dropController_PC\bin\Release\dropControllerPC.exe.config
+D:\dropController\dropController_WindowsApp_1.2.0.2 source files\dropController_PC\obj\Release\dropControllerPC.exe
+D:\dropController\dropController_WindowsApp_1.2.0.2 source files\dropController_PC\obj\Release\dropControllerPC.xml
+D:\dropController\dropController_WindowsApp_1.2.0.2 source files\dropController_PC\obj\Release\dropControllerPC.pdb
+D:\dropController\dropController_WindowsApp_1.2.0.2 source files\dropController_PC\obj\Release\dropControllerPC.AboutBox1.resources
+D:\dropController\dropController_WindowsApp_1.2.0.2 source files\dropController_PC\obj\Release\dropControllerPC.mainForm.resources
+D:\dropController\dropController_WindowsApp_1.2.0.2 source files\dropController_PC\obj\Release\dropControllerPC.loopPage.resources
+D:\dropController\dropController_WindowsApp_1.2.0.2 source files\dropController_PC\obj\Release\dropControllerPC.MessageBox.resources
+D:\dropController\dropController_WindowsApp_1.2.0.2 source files\dropController_PC\obj\Release\dropControllerPC.Resources.resources
+D:\dropController\dropController_WindowsApp_1.2.0.2 source files\dropController_PC\obj\Release\dropControllerPC.settingsForm.resources
+D:\dropController\dropController_WindowsApp_1.2.0.2 source files\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+D:\dropController\dropController_WindowsApp_1.2.0.2 source files\dropController_PC\bin\Release\dropControllerPC.exe
+D:\dropController\dropController_WindowsApp_1.2.0.2 source files\dropController_PC\bin\Release\dropControllerPC.pdb
+D:\dropController\dropController_WindowsApp_1.2.0.2 source files\dropController_PC\bin\Release\dropControllerPC.xml
+D:\dropController\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\bin\Release\dropControllerPC.exe.config
+D:\dropController\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.exe
+D:\dropController\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.xml
+D:\dropController\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.pdb
+D:\dropController\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.AboutBox1.resources
+D:\dropController\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.mainForm.resources
+D:\dropController\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.loopPage.resources
+D:\dropController\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.MessageBox.resources
+D:\dropController\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.Resources.resources
+D:\dropController\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.settingsForm.resources
+D:\dropController\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+D:\dropController\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\bin\Release\dropControllerPC.exe
+D:\dropController\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\bin\Release\dropControllerPC.pdb
+D:\dropController\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\bin\Release\dropControllerPC.xml
+E:\dropController Debug\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\bin\Release\dropControllerPC.exe.config
+E:\dropController Debug\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\bin\Release\dropControllerPC.exe
+E:\dropController Debug\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\bin\Release\dropControllerPC.pdb
+E:\dropController Debug\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\bin\Release\dropControllerPC.xml
+E:\dropController Debug\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+E:\dropController Debug\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.AboutBox1.resources
+E:\dropController Debug\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.mainForm.resources
+E:\dropController Debug\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.loopPage.resources
+E:\dropController Debug\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.MessageBox.resources
+E:\dropController Debug\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.Resources.resources
+E:\dropController Debug\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.settingsForm.resources
+E:\dropController Debug\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+E:\dropController Debug\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+E:\dropController Debug\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.exe
+E:\dropController Debug\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.xml
+E:\dropController Debug\dropController_WindowsApp_1.2.3.1 source files\dropController_PC\obj\Release\dropControllerPC.pdb
+Q:\Websites - Blogs\_DROPCONTROLLER.COM\__APPS\PC app\_dropController_WindowsApp_1.3.1.1 source files\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+Q:\Websites - Blogs\_DROPCONTROLLER.COM\__APPS\PC app\_dropController_WindowsApp_1.3.1.1 source files\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+Q:\Websites - Blogs\_DROPCONTROLLER.COM\__APPS\PC app\_dropController_WindowsApp_1.3.1.1 source files\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+Q:\Websites - Blogs\_DROPCONTROLLER.COM\__APPS\PC app\_dropController_WindowsApp_1.3.1.1 source files\dropController_PC\bin\Release\dropController.exe.config
+Q:\Websites - Blogs\_DROPCONTROLLER.COM\__APPS\PC app\_dropController_WindowsApp_1.3.1.1 source files\dropController_PC\bin\Release\dropController.exe
+Q:\Websites - Blogs\_DROPCONTROLLER.COM\__APPS\PC app\_dropController_WindowsApp_1.3.1.1 source files\dropController_PC\bin\Release\dropController.pdb
+Q:\Websites - Blogs\_DROPCONTROLLER.COM\__APPS\PC app\_dropController_WindowsApp_1.3.1.1 source files\dropController_PC\bin\Release\dropController.xml
+Q:\Websites - Blogs\_DROPCONTROLLER.COM\__APPS\PC app\_dropController_WindowsApp_1.3.1.1 source files\dropController_PC\obj\Release\dropController.AboutBox1.resources
+Q:\Websites - Blogs\_DROPCONTROLLER.COM\__APPS\PC app\_dropController_WindowsApp_1.3.1.1 source files\dropController_PC\obj\Release\dropController.mainForm.resources
+Q:\Websites - Blogs\_DROPCONTROLLER.COM\__APPS\PC app\_dropController_WindowsApp_1.3.1.1 source files\dropController_PC\obj\Release\dropController.loopPage.resources
+Q:\Websites - Blogs\_DROPCONTROLLER.COM\__APPS\PC app\_dropController_WindowsApp_1.3.1.1 source files\dropController_PC\obj\Release\dropController.MessageBox.resources
+Q:\Websites - Blogs\_DROPCONTROLLER.COM\__APPS\PC app\_dropController_WindowsApp_1.3.1.1 source files\dropController_PC\obj\Release\dropController.Resources.resources
+Q:\Websites - Blogs\_DROPCONTROLLER.COM\__APPS\PC app\_dropController_WindowsApp_1.3.1.1 source files\dropController_PC\obj\Release\dropController.settingsForm.resources
+Q:\Websites - Blogs\_DROPCONTROLLER.COM\__APPS\PC app\_dropController_WindowsApp_1.3.1.1 source files\dropController_PC\obj\Release\dropController.exe
+Q:\Websites - Blogs\_DROPCONTROLLER.COM\__APPS\PC app\_dropController_WindowsApp_1.3.1.1 source files\dropController_PC\obj\Release\dropController.xml
+Q:\Websites - Blogs\_DROPCONTROLLER.COM\__APPS\PC app\_dropController_WindowsApp_1.3.1.1 source files\dropController_PC\obj\Release\dropController.pdb
+E:\dropController VB\dropController_14.0.0.1 source\dropController_PC\bin\Release\dropController.exe.config
+E:\dropController VB\dropController_14.0.0.1 source\dropController_PC\bin\Release\dropController.exe
+E:\dropController VB\dropController_14.0.0.1 source\dropController_PC\bin\Release\dropController.pdb
+E:\dropController VB\dropController_14.0.0.1 source\dropController_PC\bin\Release\dropController.xml
+E:\dropController VB\dropController_14.0.0.1 source\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+E:\dropController VB\dropController_14.0.0.1 source\dropController_PC\obj\Release\dropController.AboutBox1.resources
+E:\dropController VB\dropController_14.0.0.1 source\dropController_PC\obj\Release\dropController.mainForm.resources
+E:\dropController VB\dropController_14.0.0.1 source\dropController_PC\obj\Release\dropController.loopPage.resources
+E:\dropController VB\dropController_14.0.0.1 source\dropController_PC\obj\Release\dropController.MessageBox.resources
+E:\dropController VB\dropController_14.0.0.1 source\dropController_PC\obj\Release\dropController.Resources.resources
+E:\dropController VB\dropController_14.0.0.1 source\dropController_PC\obj\Release\dropController.settingsForm.resources
+E:\dropController VB\dropController_14.0.0.1 source\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+E:\dropController VB\dropController_14.0.0.1 source\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+E:\dropController VB\dropController_14.0.0.1 source\dropController_PC\obj\Release\dropController.exe
+E:\dropController VB\dropController_14.0.0.1 source\dropController_PC\obj\Release\dropController.xml
+E:\dropController VB\dropController_14.0.0.1 source\dropController_PC\obj\Release\dropController.pdb
+E:\dropController VB\dropController_14.0.0.2 source\dropController_PC\bin\Release\dropController.exe.config
+E:\dropController VB\dropController_14.0.0.2 source\dropController_PC\bin\Release\dropController.exe
+E:\dropController VB\dropController_14.0.0.2 source\dropController_PC\bin\Release\dropController.pdb
+E:\dropController VB\dropController_14.0.0.2 source\dropController_PC\bin\Release\dropController.xml
+E:\dropController VB\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+E:\dropController VB\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.AboutBox1.resources
+E:\dropController VB\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.mainForm.resources
+E:\dropController VB\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.loopPage.resources
+E:\dropController VB\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.MessageBox.resources
+E:\dropController VB\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.Resources.resources
+E:\dropController VB\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.settingsForm.resources
+E:\dropController VB\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+E:\dropController VB\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+E:\dropController VB\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.exe
+E:\dropController VB\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.xml
+E:\dropController VB\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.pdb
+E:\dropController VB\dropController_14.0.0.2\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+E:\dropController VB\dropController_14.0.0.2\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.AboutBox1.resources
+E:\dropController VB\dropController_14.0.0.2\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.mainForm.resources
+E:\dropController VB\dropController_14.0.0.2\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.loopPage.resources
+E:\dropController VB\dropController_14.0.0.2\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.MessageBox.resources
+E:\dropController VB\dropController_14.0.0.2\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.Resources.resources
+E:\dropController VB\dropController_14.0.0.2\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.settingsForm.resources
+E:\dropController VB\dropController_14.0.0.2\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+E:\dropController VB\dropController_14.0.0.2\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+E:\dropController VB\dropController_14.0.0.2\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.exe
+E:\dropController VB\dropController_14.0.0.2\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.xml
+E:\dropController VB\dropController_14.0.0.2\dropController_14.0.0.2 source\dropController_PC\obj\Release\dropController.pdb
+E:\dropController VB\dropController_14.0.0.2\dropController_14.0.0.2 source\dropController_PC\bin\Release\dropController.exe.config
+E:\dropController VB\dropController_14.0.0.2\dropController_14.0.0.2 source\dropController_PC\bin\Release\dropController.exe
+E:\dropController VB\dropController_14.0.0.2\dropController_14.0.0.2 source\dropController_PC\bin\Release\dropController.pdb
+E:\dropController VB\dropController_14.0.0.2\dropController_14.0.0.2 source\dropController_PC\bin\Release\dropController.xml
+Q:\dropController VB\dropController_14.0.0.3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+Q:\dropController VB\dropController_14.0.0.3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.AboutBox1.resources
+Q:\dropController VB\dropController_14.0.0.3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.mainForm.resources
+Q:\dropController VB\dropController_14.0.0.3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.loopPage.resources
+Q:\dropController VB\dropController_14.0.0.3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.MessageBox.resources
+Q:\dropController VB\dropController_14.0.0.3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.Resources.resources
+Q:\dropController VB\dropController_14.0.0.3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.settingsForm.resources
+Q:\dropController VB\dropController_14.0.0.3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+Q:\dropController VB\dropController_14.0.0.3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+Q:\dropController VB\dropController_14.0.0.3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.exe
+Q:\dropController VB\dropController_14.0.0.3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.xml
+Q:\dropController VB\dropController_14.0.0.3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.pdb
+Q:\dropController VB\dropController_14.0.0.3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController.exe.config
+Q:\dropController VB\dropController_14.0.0.3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController.exe
+Q:\dropController VB\dropController_14.0.0.3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController.pdb
+Q:\dropController VB\dropController_14.0.0.3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController.xml
+E:\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController.exe.config
+E:\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController.exe
+E:\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController.pdb
+E:\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController.xml
+E:\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+E:\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.AboutBox1.resources
+E:\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.mainForm.resources
+E:\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.loopPage.resources
+E:\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.MessageBox.resources
+E:\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.Resources.resources
+E:\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.settingsForm.resources
+E:\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+E:\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+E:\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.exe
+E:\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.xml
+E:\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.pdb
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.exe.config
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.exe
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.pdb
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.xml
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.AboutBox1.resources
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.mainForm.resources
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.loopPage.resources
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.MessageBox.resources
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.Resources.resources
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.settingsForm.resources
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.exe
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.xml
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.pdb
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.exe.manifest
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.application
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.exe.manifest
+C:\Users\USER\Desktop\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.application
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.exe.config
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.exe.manifest
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.application
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.exe
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.pdb
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.xml
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.AboutBox1.resources
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.mainForm.resources
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.loopPage.resources
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.MessageBox.resources
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.Resources.resources
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.settingsForm.resources
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.exe.manifest
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.application
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.exe
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.xml
+H:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.pdb
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.exe.config
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.exe
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.xml
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.pdb
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.exe.manifest
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.application
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.exe
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.pdb
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.xml
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.AboutBox1.resources
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.mainForm.resources
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.loopPage.resources
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.MessageBox.resources
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.Resources.resources
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.exe.manifest
+E:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.application
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.exe.config
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.exe
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.xml
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.pdb
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.exe.manifest
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.application
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.exe
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.pdb
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\bin\Release\dropController_V3.xml
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.AboutBox1.resources
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.mainForm.resources
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.loopPage.resources
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.MessageBox.resources
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController.Resources.resources
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.exe.manifest
+G:\dropController_V3\dropController_14.0.0.3 source\dropController_PC\obj\Release\dropController_V3.application
+G:\dropController_V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.exe.config
+G:\dropController_V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.exe
+G:\dropController_V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.xml
+G:\dropController_V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.pdb
+G:\dropController_V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.exe.manifest
+G:\dropController_V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.application
+G:\dropController_V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.exe
+G:\dropController_V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.pdb
+G:\dropController_V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.xml
+G:\dropController_V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+G:\dropController_V3\dropController_V3_dev\dropController_PC\obj\Release\dropController.AboutBox1.resources
+G:\dropController_V3\dropController_V3_dev\dropController_PC\obj\Release\dropController.mainForm.resources
+G:\dropController_V3\dropController_V3_dev\dropController_PC\obj\Release\dropController.loopPage.resources
+G:\dropController_V3\dropController_V3_dev\dropController_PC\obj\Release\dropController.MessageBox.resources
+G:\dropController_V3\dropController_V3_dev\dropController_PC\obj\Release\dropController.Resources.resources
+G:\dropController_V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+G:\dropController_V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+G:\dropController_V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.exe.manifest
+G:\dropController_V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.application
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\obj\Release\dropController.AboutBox1.resources
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\obj\Release\dropController.mainForm.resources
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\obj\Release\dropController.loopPage.resources
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\obj\Release\dropController.Resources.resources
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.exe
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.xml
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.pdb
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.exe.config
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.exe.manifest
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.application
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.exe
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.pdb
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.xml
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.exe.manifest
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.application
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\bin\Release\dropController_V3.exe.config
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\bin\Release\dropController_V3.exe.manifest
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\bin\Release\dropController_V3.application
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\bin\Release\dropController_V3.exe
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\bin\Release\dropController_V3.pdb
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\bin\Release\dropController_V3.xml
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\obj\Release\dropController.AboutBox1.resources
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\obj\Release\dropController.mainForm.resources
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\obj\Release\dropController.loopPage.resources
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\obj\Release\dropController.MessageBox.resources
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\obj\Release\dropController.Resources.resources
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\obj\Release\dropController_V3.exe.manifest
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\obj\Release\dropController_V3.application
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\obj\Release\dropController_V3.exe
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\obj\Release\dropController_V3.xml
+H:\dropController_V3 (work folder)\Windows App\dropController_V3_dev - Copy\dropController_PC\obj\Release\dropController_V3.pdb
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController.AboutBox1.resources
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController.mainForm.resources
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController.loopPage.resources
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController.Resources.resources
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.exe
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.xml
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.pdb
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.exe.config
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.exe.manifest
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.application
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.exe
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.pdb
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.xml
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.exe.manifest
+Q:\dropController_V3 (not the work folder)\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.application
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController.AboutBox1.resources
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController.mainForm.resources
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController.Resources.resources
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.exe
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.xml
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.pdb
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.exe.config
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.exe.manifest
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.application
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.exe
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.pdb
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\bin\Release\dropController_V3.xml
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.exe.manifest
+E:\dropController_V3 (work folder)\Windows App V3\dropController_V3_dev\dropController_PC\obj\Release\dropController_V3.application
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.exe.config
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.exe.manifest
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.application
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.exe
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.pdb
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.xml
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController.AboutBox1.resources
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController.mainForm.resources
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController.Resources.resources
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.exe.manifest
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.application
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.exe
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.xml
+C:\Users\USER\Desktop\dropController_V3 (Partial) DEV\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.pdb
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.exe.config
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.exe.manifest
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.application
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.exe
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController.AboutBox1.resources
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController.mainForm.resources
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController.Resources.resources
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.cache
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.exe.manifest
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.application
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.exe
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.xml
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.pdb
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.pdb
+G:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.xml
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\bin\Release\dropController_V3.exe.config
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\bin\Release\dropController_V3.exe.manifest
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\bin\Release\dropController_V3.application
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\bin\Release\dropController_V3.exe
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\bin\Release\dropController_V3.pdb
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\bin\Release\dropController_V3.xml
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\obj\Release\dropController.AboutBox1.resources
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\obj\Release\dropController.mainForm.resources
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\obj\Release\dropController.Resources.resources
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\obj\Release\dropController_V3.exe.manifest
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\obj\Release\dropController_V3.application
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\obj\Release\dropController_V3.exe
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\obj\Release\dropController_V3.xml
+C:\Users\USER\Desktop\dropController_V3_011 just before new graph 2\dropController_PC\obj\Release\dropController_V3.pdb
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController.AboutBox1.resources
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController.mainForm.resources
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController.Resources.resources
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.exe
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.xml
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.pdb
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.exe.config
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.exe.manifest
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.application
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.exe
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.pdb
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\bin\Release\dropController_V3.xml
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.exe.manifest
+H:\dropController_V3 (Partial) 2018-05-07 end of day\Windows App V3\dropController_V3_DEV\dropController_PC\obj\Release\dropController_V3.application
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\bin\Release\dropController_V3.exe.config
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\bin\Release\dropController_V3.exe.manifest
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\bin\Release\dropController_V3.application
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\bin\Release\dropController_V3.exe
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\bin\Release\dropController_V3.pdb
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\bin\Release\dropController_V3.xml
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\obj\Release\dropController.AboutBox1.resources
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\obj\Release\dropController.mainForm.resources
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\obj\Release\dropController.Resources.resources
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\obj\Release\dropController_V3.exe.manifest
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\obj\Release\dropController_V3.application
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\obj\Release\dropController_V3.exe
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\obj\Release\dropController_V3.xml
+C:\Users\MM\Desktop\dropController_V3_014 no picture box\dropController_PC\obj\Release\dropController_V3.pdb
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\obj\Release\dropController.AboutBox1.resources
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\obj\Release\dropController.mainForm.resources
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\obj\Release\dropController.Resources.resources
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\obj\Release\dropController_V3.exe
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\obj\Release\dropController_V3.xml
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\obj\Release\dropController_V3.pdb
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\bin\Release\dropController_V3.exe.config
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\bin\Release\dropController_V3.exe.manifest
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\bin\Release\dropController_V3.application
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\bin\Release\dropController_V3.exe
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\bin\Release\dropController_V3.pdb
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\bin\Release\dropController_V3.xml
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\obj\Release\dropController_V3.exe.manifest
+C:\Users\MM\Desktop\dropController_V3_015 New Graph (No picture box)\dropController_PC\obj\Release\dropController_V3.application
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\bin\Release\dropController_V3.exe.config
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\bin\Release\dropController_V3.exe.manifest
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\bin\Release\dropController_V3.application
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\bin\Release\dropController_V3.exe
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\bin\Release\dropController_V3.pdb
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\bin\Release\dropController_V3.xml
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController.AboutBox1.resources
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController.mainForm.resources
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController.Resources.resources
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.cache
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_V3.exe.manifest
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_V3.application
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_V3.exe
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_V3.xml
+G:\dropController_V3 (Partial) 2018-05-26\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_V3.pdb
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\bin\Release\dropController_V3.exe.config
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\bin\Release\dropController_V3.exe.manifest
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\bin\Release\dropController_V3.application
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\bin\Release\dropController_V3.exe
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\bin\Release\dropController_V3.pdb
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\bin\Release\dropController_V3.xml
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController.AboutBox1.resources
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController.mainForm.resources
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController.Resources.resources
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_V3.exe.manifest
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_V3.application
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_V3.exe
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_V3.xml
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-17\Windows App V3\dropController_V3_017_newBaudRate\dropController_PC\obj\Release\dropController_V3.pdb
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController.AboutBox1.resources
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController.mainForm.resources
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController.Resources.resources
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_V3.exe
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_V3.xml
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_V3.pdb
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\bin\Release\dropController_V3.exe.config
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\bin\Release\dropController_V3.exe.manifest
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\bin\Release\dropController_V3.application
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\bin\Release\dropController_V3.exe
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\bin\Release\dropController_V3.pdb
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\bin\Release\dropController_V3.xml
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_V3.exe.manifest
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-06-18\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_V3.application
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\bin\Release\dropController_V3.exe.config
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\bin\Release\dropController_V3.exe.manifest
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\bin\Release\dropController_V3.application
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\bin\Release\dropController_V3.exe
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\bin\Release\dropController_V3.pdb
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\bin\Release\dropController_V3.xml
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController.AboutBox1.resources
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController.mainForm.resources
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController.Resources.resources
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_V3.exe.manifest
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_V3.application
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_V3.exe
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_V3.xml
+Q:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_018_newBaudRate\dropController_PC\obj\Release\dropController_V3.pdb
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\bin\Release\dropController_V3.exe.config
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\bin\Release\dropController_V3.exe.manifest
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\bin\Release\dropController_V3.application
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\bin\Release\dropController_V3.exe
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\bin\Release\dropController_V3.pdb
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\bin\Release\dropController_V3.xml
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\obj\Release\dropController.AboutBox1.resources
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\obj\Release\dropController.mainForm.resources
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\obj\Release\dropController.Resources.resources
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\obj\Release\dropController_V3.exe.manifest
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\obj\Release\dropController_V3.application
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\obj\Release\dropController_V3.exe
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\obj\Release\dropController_V3.xml
+J:\dropController_V3 (BACKUPS)\dropController_V3 (Partial) 2018-08-04\Windows App V3\dropController_V3_019\dropController_PC\obj\Release\dropController_V3.pdb
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\bin\Release\dropController_V3.exe.config
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\bin\Release\dropController_V3.exe.manifest
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\bin\Release\dropController_V3.application
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\bin\Release\dropController_V3.exe
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\bin\Release\dropController_V3.pdb
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\bin\Release\dropController_V3.xml
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\obj\Release\dropController.AboutBox1.resources
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\obj\Release\dropController.mainForm.resources
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\obj\Release\dropController.Resources.resources
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\obj\Release\dropController_V3.exe.manifest
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\obj\Release\dropController_V3.application
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\obj\Release\dropController_V3.exe
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\obj\Release\dropController_V3.xml
+C:\Users\MM\Desktop\dropController_2019-001\dropController_PC\obj\Release\dropController_V3.pdb
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\bin\Release\dropController_V3.exe.config
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\bin\Release\dropController_V3.exe.manifest
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\bin\Release\dropController_V3.application
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\bin\Release\dropController_V3.exe
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\bin\Release\dropController_V3.pdb
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\bin\Release\dropController_V3.xml
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\obj\Release\dropController.AboutBox1.resources
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\obj\Release\dropController.mainForm.resources
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\obj\Release\dropController.Resources.resources
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\obj\Release\dropController_V3.exe.manifest
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\obj\Release\dropController_V3.application
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\obj\Release\dropController_V3.exe
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\obj\Release\dropController_V3.xml
+C:\Users\MM\Desktop\dropController_2019-002\dropController_PC\obj\Release\dropController_V3.pdb
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\bin\Release\dropController_V3.exe.config
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\bin\Release\dropController_V3.exe.manifest
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\bin\Release\dropController_V3.application
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\bin\Release\dropController_V3.exe
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\bin\Release\dropController_V3.pdb
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\bin\Release\dropController_V3.xml
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\obj\Release\dropController.AboutBox1.resources
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\obj\Release\dropController.mainForm.resources
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\obj\Release\dropController.Resources.resources
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\obj\Release\dropController_V3.TrustInfo.xml
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\obj\Release\dropController_V3.exe.manifest
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\obj\Release\dropController_V3.application
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\obj\Release\dropController_V3.exe
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\obj\Release\dropController_V3.xml
+C:\Users\MM\Desktop\dropController_2019-003\dropController_PC\obj\Release\dropController_V3.pdb
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\obj\Release\dropController.AboutBox1.resources
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\obj\Release\dropController.mainForm.resources
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\obj\Release\dropController.Resources.resources
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\bin\Release\dropController.exe.config
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\bin\Release\dropController.exe.manifest
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\bin\Release\dropController.application
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\bin\Release\dropController.exe
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\bin\Release\dropController.pdb
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\bin\Release\dropController.xml
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\obj\Release\dropController.TrustInfo.xml
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\obj\Release\dropController.exe.manifest
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\obj\Release\dropController.application
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\obj\Release\dropController.exe
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\obj\Release\dropController.xml
+C:\Users\MM\Desktop\dropController_2019-004\dropController_PC\obj\Release\dropController.pdb
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\bin\Release\dropController.exe.config
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\bin\Release\dropController.exe.manifest
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\bin\Release\dropController.application
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\bin\Release\dropController.exe
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\bin\Release\dropController.pdb
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\bin\Release\dropController.xml
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\obj\Release\dropController.AboutBox1.resources
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\obj\Release\dropController.mainForm.resources
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\obj\Release\dropController.Resources.resources
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\obj\Release\dropController.TrustInfo.xml
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\obj\Release\dropController.exe.manifest
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\obj\Release\dropController.application
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\obj\Release\dropController.exe
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\obj\Release\dropController.xml
+J:\dropController\WinApp\dropController_2019-004\dropController_PC\obj\Release\dropController.pdb
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\bin\Release\dropController.exe.config
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\bin\Release\dropController.exe.manifest
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\bin\Release\dropController.application
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\bin\Release\dropController.exe
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\bin\Release\dropController.pdb
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\bin\Release\dropController.xml
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\obj\Release\dropController.AboutBox1.resources
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\obj\Release\dropController.mainForm.resources
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\obj\Release\dropController.Resources.resources
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\obj\Release\dropController.TrustInfo.xml
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\obj\Release\dropController.exe.manifest
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\obj\Release\dropController.application
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\obj\Release\dropController.exe
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\obj\Release\dropController.xml
+J:\dropController\WinApp\dropController_2019-005\dropController_PC\obj\Release\dropController.pdb
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\bin\Release\dropController.exe.config
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\bin\Release\dropController.exe.manifest
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\bin\Release\dropController.application
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\bin\Release\dropController.exe
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\bin\Release\dropController.pdb
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\bin\Release\dropController.xml
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\obj\Release\dropController.AboutBox1.resources
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\obj\Release\dropController.mainForm.resources
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\obj\Release\dropController.Resources.resources
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\obj\Release\dropController.TrustInfo.xml
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\obj\Release\dropController.exe.manifest
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\obj\Release\dropController.application
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\obj\Release\dropController.exe
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\obj\Release\dropController.xml
+C:\Users\MM\Desktop\dropController_2019-005\dropController_PC\obj\Release\dropController.pdb
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\bin\Release\dropController.exe.config
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\bin\Release\dropController.exe.manifest
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\bin\Release\dropController.application
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\bin\Release\dropController.exe
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\bin\Release\dropController.pdb
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\bin\Release\dropController.xml
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.AboutBox1.resources
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.mainForm.resources
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.Resources.resources
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.TrustInfo.xml
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.exe.manifest
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.application
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.exe
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.xml
+C:\Users\MM\Desktop\WinApp_dropController_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.pdb
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\bin\Release\dropController.exe.config
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\bin\Release\dropController.exe.manifest
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\bin\Release\dropController.application
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\bin\Release\dropController.exe
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\bin\Release\dropController.pdb
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\bin\Release\dropController.xml
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.AboutBox1.resources
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.mainForm.resources
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.Resources.resources
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.TrustInfo.xml
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.exe.manifest
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.application
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.exe
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.xml
+C:\Users\MM\Desktop\dropController_WinApp_2019-005_01_FT3_sorce\dropController_PC\obj\Release\dropController.pdb
+J:\dropController\_WinApp\dropController_WinApp_2019-005_01_FT3_source_2019-04-20\dropController_PC\obj\Release\dropController_PC.vbprojResolveAssemblyReference.cache
+J:\dropController\_WinApp\dropController_WinApp_2019-005_01_FT3_source_2019-04-20\dropController_PC\obj\Release\dropController.AboutBox1.resources
+J:\dropController\_WinApp\dropController_WinApp_2019-005_01_FT3_source_2019-04-20\dropController_PC\obj\Release\dropController.mainForm.resources
+J:\dropController\_WinApp\dropController_WinApp_2019-005_01_FT3_source_2019-04-20\dropController_PC\obj\Release\dropController.Resources.resources
+J:\dropController\_WinApp\dropController_WinApp_2019-005_01_FT3_source_2019-04-20\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.Cache
+J:\dropController\_WinApp\dropController_WinApp_2019-005_01_FT3_source_2019-04-20\dropController_PC\obj\Release\dropController_PC.vbproj.CoreCompileInputs.cache
+J:\dropController\_WinApp\dropController_WinApp_2019-005_01_FT3_source_2019-04-20\dropController_PC\obj\Release\dropController.TrustInfo.xml
+J:\dropController\_WinApp\dropController_WinApp_2019-005_01_FT3_source_2019-04-20\dropController_PC\obj\Release\dropController.exe
+J:\dropController\_WinApp\dropController_WinApp_2019-005_01_FT3_source_2019-04-20\dropController_PC\obj\Release\dropController.xml
+J:\dropController\_WinApp\dropController_WinApp_2019-005_01_FT3_source_2019-04-20\dropController_PC\obj\Release\dropController.pdb
+J:\dropControllerV3\Code - WinApp\dC_WinApp_2019-006-01\dropController_WinApp_2019-006_01\dropController_PC\obj\Release\dropController_PC.vbprojAssemblyReference.cache
+J:\dropControllerV3\Code - WinApp\dC_WinApp_2019-006-01\dropController_WinApp_2019-006_01\dropController_PC\obj\Release\dropController.AboutBox1.resources
+J:\dropControllerV3\Code - WinApp\dC_WinApp_2019-006-01\dropController_WinApp_2019-006_01\dropController_PC\obj\Release\dropController.mainForm.resources
+J:\dropControllerV3\Code - WinApp\dC_WinApp_2019-006-01\dropController_WinApp_2019-006_01\dropController_PC\obj\Release\dropController.Resources.resources
+J:\dropControllerV3\Code - WinApp\dC_WinApp_2019-006-01\dropController_WinApp_2019-006_01\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.cache
+J:\dropControllerV3\Code - WinApp\dC_WinApp_2019-006-01\dropController_WinApp_2019-006_01\dropController_PC\obj\Release\dropController.TrustInfo.xml
+J:\dropControllerV3\Code - WinApp\dC_WinApp_2019-006-01\dropController_WinApp_2019-006_01\dropController_PC\obj\Release\dropController.exe
+J:\dropControllerV3\Code - WinApp\dC_WinApp_2019-006-01\dropController_WinApp_2019-006_01\dropController_PC\obj\Release\dropController.xml
+J:\dropControllerV3\Code - WinApp\dC_WinApp_2019-006-01\dropController_WinApp_2019-006_01\dropController_PC\obj\Release\dropController.pdb
+J:\dropControllerV3\Code - WinApp\dC_WinApp_2019-006-01\dropController_WinApp_2019-006_01\dropController_PC\bin\Release\dropController.exe.config
+J:\dropControllerV3\Code - WinApp\dC_WinApp_2019-006-01\dropController_WinApp_2019-006_01\dropController_PC\bin\Release\dropController.exe.manifest
+J:\dropControllerV3\Code - WinApp\dC_WinApp_2019-006-01\dropController_WinApp_2019-006_01\dropController_PC\bin\Release\dropController.application
+J:\dropControllerV3\Code - WinApp\dC_WinApp_2019-006-01\dropController_WinApp_2019-006_01\dropController_PC\bin\Release\dropController.exe
+J:\dropControllerV3\Code - WinApp\dC_WinApp_2019-006-01\dropController_WinApp_2019-006_01\dropController_PC\bin\Release\dropController.pdb
+J:\dropControllerV3\Code - WinApp\dC_WinApp_2019-006-01\dropController_WinApp_2019-006_01\dropController_PC\bin\Release\dropController.xml
+J:\dropControllerV3\Code - WinApp\dC_WinApp_2019-006-01\dropController_WinApp_2019-006_01\dropController_PC\obj\Release\dropController.exe.manifest
+J:\dropControllerV3\Code - WinApp\dC_WinApp_2019-006-01\dropController_WinApp_2019-006_01\dropController_PC\obj\Release\dropController.application
+C:\Users\m.favre.ST12\Downloads\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\bin\Release\dropController.exe.config
+C:\Users\m.favre.ST12\Downloads\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\bin\Release\dropController.exe.manifest
+C:\Users\m.favre.ST12\Downloads\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\bin\Release\dropController.application
+C:\Users\m.favre.ST12\Downloads\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\bin\Release\dropController.exe
+C:\Users\m.favre.ST12\Downloads\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\bin\Release\dropController.pdb
+C:\Users\m.favre.ST12\Downloads\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\bin\Release\dropController.xml
+C:\Users\m.favre.ST12\Downloads\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController_PC.vbprojAssemblyReference.cache
+C:\Users\m.favre.ST12\Downloads\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.AboutBox1.resources
+C:\Users\m.favre.ST12\Downloads\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.mainForm.resources
+C:\Users\m.favre.ST12\Downloads\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.Resources.resources
+C:\Users\m.favre.ST12\Downloads\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.cache
+C:\Users\m.favre.ST12\Downloads\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.TrustInfo.xml
+C:\Users\m.favre.ST12\Downloads\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.exe.manifest
+C:\Users\m.favre.ST12\Downloads\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.application
+C:\Users\m.favre.ST12\Downloads\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.exe
+C:\Users\m.favre.ST12\Downloads\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.xml
+C:\Users\m.favre.ST12\Downloads\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.pdb
+C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\bin\Release\dropController.exe.config
+C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\bin\Release\dropController.exe.manifest
+C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\bin\Release\dropController.application
+C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\bin\Release\dropController.exe
+C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\bin\Release\dropController.pdb
+C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\bin\Release\dropController.xml
+C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController_PC.vbprojAssemblyReference.cache
+C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.AboutBox1.resources
+C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.mainForm.resources
+C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.Resources.resources
+C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.cache
+C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.TrustInfo.xml
+C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.exe.manifest
+C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.application
+C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.exe
+C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.xml
+C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.pdb

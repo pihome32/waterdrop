@@ -1,0 +1,16 @@
+dropController: Settings File
+Saved: 18/12/2019 17:03:41
+Version=3
+Loop=ON
+ButOrTimer=TIMER
+WaitTime=10
+MirrLockup=OFF
+MirrLockTime=1000
+CT_Pulse=050
+FT1_Pulse=050
+FT2_Pulse=050
+FT3_Pulse=050
+Sound=OFF
+Leo=NO
+Debug=OFF
+END
