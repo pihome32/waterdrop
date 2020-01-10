@@ -5114,5 +5114,17 @@ Public Class mainForm
     Private Sub About02_LBL_Click(sender As Object, e As EventArgs) Handles About02_LBL.Click
 
     End Sub
+
+    Private Sub Label36_Click(sender As Object, e As EventArgs) Handles Label36.Click
+
+    End Sub
+
+    Private Sub COMport_CB_SelectedIndexChanged(sender As Object, e As EventArgs) Handles COMport_CB.SelectedIndexChanged
+
+    End Sub
+
+    Private Sub ComboBox2_SelectedIndexChanged(sender As Object, e As EventArgs) Handles light_Combo.SelectedIndexChanged
+
+    End Sub
 End Class
 

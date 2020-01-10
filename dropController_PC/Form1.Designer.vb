@@ -299,6 +299,10 @@ Partial Class mainForm
         Me.Timer_SD_IN_LBL = New System.Windows.Forms.Label()
         Me.Timer_TestConnection_Timeout = New System.Windows.Forms.Timer(Me.components)
         Me.Label28 = New System.Windows.Forms.Label()
+        Me.Label36 = New System.Windows.Forms.Label()
+        Me.Label45 = New System.Windows.Forms.Label()
+        Me.laser_Combo = New System.Windows.Forms.ComboBox()
+        Me.light_Combo = New System.Windows.Forms.ComboBox()
         Me.MenuStripForm1.SuspendLayout()
         Me.GraphTabControl.SuspendLayout()
         Me.TAB_DROPS.SuspendLayout()
@@ -1950,6 +1954,10 @@ Partial Class mainForm
         '
         'TAB_SETTINGS
         '
+        Me.TAB_SETTINGS.Controls.Add(Me.light_Combo)
+        Me.TAB_SETTINGS.Controls.Add(Me.laser_Combo)
+        Me.TAB_SETTINGS.Controls.Add(Me.Label45)
+        Me.TAB_SETTINGS.Controls.Add(Me.Label36)
         Me.TAB_SETTINGS.Controls.Add(Me.Label44)
         Me.TAB_SETTINGS.Controls.Add(Me.Label43)
         Me.TAB_SETTINGS.Controls.Add(Me.Label37)
@@ -3399,6 +3407,44 @@ Partial Class mainForm
         Me.Label28.Text = "dropController"
         Me.Label28.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
+        'Label36
+        '
+        Me.Label36.AutoSize = True
+        Me.Label36.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label36.Location = New System.Drawing.Point(583, 345)
+        Me.Label36.Name = "Label36"
+        Me.Label36.Size = New System.Drawing.Size(102, 20)
+        Me.Label36.TabIndex = 655
+        Me.Label36.Text = "Laser pointer"
+        '
+        'Label45
+        '
+        Me.Label45.AutoSize = True
+        Me.Label45.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label45.Location = New System.Drawing.Point(583, 375)
+        Me.Label45.Name = "Label45"
+        Me.Label45.Size = New System.Drawing.Size(44, 20)
+        Me.Label45.TabIndex = 656
+        Me.Label45.Text = "Light"
+        '
+        'laser_Combo
+        '
+        Me.laser_Combo.FormattingEnabled = True
+        Me.laser_Combo.Items.AddRange(New Object() {"OFF", "ON", "Auto"})
+        Me.laser_Combo.Location = New System.Drawing.Point(703, 345)
+        Me.laser_Combo.Name = "laser_Combo"
+        Me.laser_Combo.Size = New System.Drawing.Size(79, 24)
+        Me.laser_Combo.TabIndex = 657
+        '
+        'light_Combo
+        '
+        Me.light_Combo.FormattingEnabled = True
+        Me.light_Combo.Items.AddRange(New Object() {"OFF", "ON", "Auto"})
+        Me.light_Combo.Location = New System.Drawing.Point(703, 375)
+        Me.light_Combo.Name = "light_Combo"
+        Me.light_Combo.Size = New System.Drawing.Size(79, 24)
+        Me.light_Combo.TabIndex = 658
+        '
         'mainForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -3733,4 +3779,8 @@ Partial Class mainForm
     Friend WithEvents FT3_Time_TB As TextBox
     Friend WithEvents Label31 As Label
     Friend WithEvents ToolStripMenuItem1 As ToolStripMenuItem
+    Friend WithEvents Label36 As Label
+    Friend WithEvents laser_Combo As ComboBox
+    Friend WithEvents Label45 As Label
+    Friend WithEvents light_Combo As ComboBox
 End Class
