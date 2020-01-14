@@ -117,14 +117,6 @@ Public Class mainForm
     End Sub
 
 
-
-
-
-
-
-
-
-
     Private Sub mainForm_FormClosing(sender As Object, e As FormClosingEventArgs) Handles MyBase.FormClosing
         debug("Close X selected")
         closeProgram()
@@ -2395,6 +2387,9 @@ Public Class mainForm
         objWriter.WriteLine("Sound=" + SET_SOUND_BTN.Text)
         objWriter.WriteLine("Leo=" + SET_LEO_BUT.Text)
         objWriter.WriteLine("Debug=" + SET_DEBUG_BTN.Text)
+        objWriter.WriteLine("Laser=" + laser_Combo.Text)
+        objWriter.WriteLine("light=" + light_Combo.Text)
+
 
         objWriter.WriteLine("END")
         objWriter.Close()
@@ -2562,6 +2557,23 @@ Public Class mainForm
                     found = True
                 End If
 
+                If (tmpSplit(0) = "Laser") Then
+                    If (tmpSplit(1) = "ON" Or tmpSplit(1) = "OFF" Or tmpSplit(1) = "Auto") Then
+                        laser_Combo.Text = tmpSplit(1)
+                    Else
+                        laser_Combo.Text = "OFF"
+                    End If
+                    found = True
+                End If
+
+                If (tmpSplit(0) = "Light") Then
+                    If (tmpSplit(1) = "ON" Or tmpSplit(1) = "OFF" Or tmpSplit(1) = "Auto") Then
+                        laser_Combo.Text = tmpSplit(1)
+                    Else
+                        light_Combo.Text = "OFF"
+                    End If
+                    found = True
+                End If
 
                 If (Not found) Then
                     debug(tmp & " is not found")
@@ -2877,7 +2889,7 @@ Public Class mainForm
 
     Private Sub activateValveDrainButtons()
         debug("Enter activateValveDrainButtons()")
-        Dim VD_BUT As Button() = New Button() {valve1Drain_BTN, valve1Drain_BTN, valve2Drain_BTN, valve3Drain_BTN, valve4Drain_BTN, valve5Drain_BTN, valve6Drain_BTN}
+        Dim VD_BUT As Button() = New Button() {valve1Drain_BTN, valve1Drain_BTN, valve2Drain_BTN, valve3Drain_BTN, valve4Drain_BTN}
         For i As Integer = 1 To numOfValves
             VD_BUT(i).Enabled = True
         Next i
@@ -2885,7 +2897,7 @@ Public Class mainForm
 
     Private Sub disableValveDrainButtons()
         debug("Enter disableValveDrainButtons()")
-        Dim VD_BUT As Button() = New Button() {valve1Drain_BTN, valve1Drain_BTN, valve2Drain_BTN, valve3Drain_BTN, valve4Drain_BTN, valve5Drain_BTN, valve6Drain_BTN}
+        Dim VD_BUT As Button() = New Button() {valve1Drain_BTN, valve1Drain_BTN, valve2Drain_BTN, valve3Drain_BTN, valve4Drain_BTN}
         For i As Integer = 1 To numOfValves
             VD_BUT(i).Enabled = False
         Next i
@@ -2958,14 +2970,6 @@ Public Class mainForm
         sendValveCommand(sender, 4)
     End Sub
 
-    Private Sub valve5Drain_BTN_Click(sender As Object, e As EventArgs) Handles valve5Drain_BTN.Click
-        sendValveCommand(sender, 5)
-    End Sub
-
-    Private Sub valve6Drain_BTN_Click(sender As Object, e As EventArgs) Handles valve6Drain_BTN.Click
-        sendValveCommand(sender, 6)
-    End Sub
-
 
     Private Sub sendValveCommand(ByVal theClickedButton As Button, val As Integer)
         Dim command As String = ""
@@ -3006,17 +3010,11 @@ Public Class mainForm
             If (valve4Drain_BTN.Text = "OPEN") Then
                 sendCommandToDropController("[V40]")
             End If
-            If (valve5Drain_BTN.Text = "OPEN") Then
-                sendCommandToDropController("[V50]")
-            End If
-            If (valve6Drain_BTN.Text = "OPEN") Then
-                sendCommandToDropController("[V60]")
-            End If
 
 
             debug(vbCrLf & "disableValveDrainButtons()")
-                Dim VD_BUT As Button() = New Button() {valve1Drain_BTN, valve1Drain_BTN, valve2Drain_BTN, valve3Drain_BTN, valve4Drain_BTN, valve5Drain_BTN, valve6Drain_BTN}
-                For i As Integer = 1 To numOfValves
+            Dim VD_BUT As Button() = New Button() {valve1Drain_BTN, valve1Drain_BTN, valve2Drain_BTN, valve3Drain_BTN, valve4Drain_BTN}
+            For i As Integer = 1 To numOfValves
                     VD_BUT(i).Text = "CLOSED"
                     VD_BUT(i).BackColor = Color.FromArgb(255, 128, 128)
                 Next i
@@ -5124,6 +5122,10 @@ Public Class mainForm
     End Sub
 
     Private Sub ComboBox2_SelectedIndexChanged(sender As Object, e As EventArgs) Handles light_Combo.SelectedIndexChanged
+
+    End Sub
+
+    Private Sub D1StartTime_TB_TextChanged(sender As Object, e As EventArgs) Handles D1StartTime_TB.TextChanged
 
     End Sub
 End Class

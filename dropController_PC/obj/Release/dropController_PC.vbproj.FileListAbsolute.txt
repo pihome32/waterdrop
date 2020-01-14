@@ -913,3 +913,20 @@ C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\
 C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.exe
 C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.xml
 C:\Users\m.favre.ST12\Documents\Perso\dropController_WinApp_2019-006_001-SOURCE\dropController_WinApp_2019-006_001 SOURCE\dropController_PC\obj\Release\dropController.pdb
+C:\Users\m.favre.ST12\Documents\Perso\waterdrop\dropController_PC\obj\Release\dropController_PC.vbprojAssemblyReference.cache
+C:\Users\m.favre.ST12\Documents\Perso\waterdrop\dropController_PC\obj\Release\dropController.AboutBox1.resources
+C:\Users\m.favre.ST12\Documents\Perso\waterdrop\dropController_PC\obj\Release\dropController.mainForm.resources
+C:\Users\m.favre.ST12\Documents\Perso\waterdrop\dropController_PC\obj\Release\dropController.Resources.resources
+C:\Users\m.favre.ST12\Documents\Perso\waterdrop\dropController_PC\obj\Release\dropController_PC.vbproj.GenerateResource.cache
+C:\Users\m.favre.ST12\Documents\Perso\waterdrop\dropController_PC\obj\Release\dropController.exe
+C:\Users\m.favre.ST12\Documents\Perso\waterdrop\dropController_PC\obj\Release\dropController.xml
+C:\Users\m.favre.ST12\Documents\Perso\waterdrop\dropController_PC\obj\Release\dropController.pdb
+C:\Users\m.favre.ST12\Documents\Perso\waterdrop\dropController_PC\bin\Release\dropController.exe.config
+C:\Users\m.favre.ST12\Documents\Perso\waterdrop\dropController_PC\bin\Release\dropController.exe.manifest
+C:\Users\m.favre.ST12\Documents\Perso\waterdrop\dropController_PC\bin\Release\dropController.application
+C:\Users\m.favre.ST12\Documents\Perso\waterdrop\dropController_PC\bin\Release\dropController.exe
+C:\Users\m.favre.ST12\Documents\Perso\waterdrop\dropController_PC\bin\Release\dropController.pdb
+C:\Users\m.favre.ST12\Documents\Perso\waterdrop\dropController_PC\bin\Release\dropController.xml
+C:\Users\m.favre.ST12\Documents\Perso\waterdrop\dropController_PC\obj\Release\dropController.TrustInfo.xml
+C:\Users\m.favre.ST12\Documents\Perso\waterdrop\dropController_PC\obj\Release\dropController.exe.manifest
+C:\Users\m.favre.ST12\Documents\Perso\waterdrop\dropController_PC\obj\Release\dropController.application

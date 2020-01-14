@@ -1,5 +1,5 @@
 dropController: Settings File
-Saved: 28/12/2019 15:08:02
+Saved: 11/01/2020 11:10:44
 Version=3
 Loop=OFF
 ButOrTimer=BUTTON
@@ -13,4 +13,6 @@ FT3_Pulse=050
 Sound=ON
 Leo=NO
 Debug=OFF
+Laser=ON
+light=
 END

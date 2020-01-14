@@ -166,6 +166,10 @@ Partial Class mainForm
         Me.D5SizeIncVal_TB = New System.Windows.Forms.TextBox()
         Me.D6Row_LBL = New System.Windows.Forms.Label()
         Me.TAB_SETTINGS = New System.Windows.Forms.TabPage()
+        Me.light_Combo = New System.Windows.Forms.ComboBox()
+        Me.laser_Combo = New System.Windows.Forms.ComboBox()
+        Me.Label45 = New System.Windows.Forms.Label()
+        Me.Label36 = New System.Windows.Forms.Label()
         Me.Label44 = New System.Windows.Forms.Label()
         Me.Label43 = New System.Windows.Forms.Label()
         Me.Label37 = New System.Windows.Forms.Label()
@@ -206,12 +210,8 @@ Partial Class mainForm
         Me.Label13 = New System.Windows.Forms.Label()
         Me.COMport_CB = New System.Windows.Forms.ComboBox()
         Me.refreshCOM_BTN = New System.Windows.Forms.Button()
-        Me.valve6Drain_BTN = New System.Windows.Forms.Button()
-        Me.lbl_VD6 = New System.Windows.Forms.Label()
         Me.SET_DEBUG_BTN = New System.Windows.Forms.Button()
         Me.SET_DEBUG_LBL = New System.Windows.Forms.Label()
-        Me.lbl_VD5 = New System.Windows.Forms.Label()
-        Me.valve5Drain_BTN = New System.Windows.Forms.Button()
         Me.lbl_VD4 = New System.Windows.Forms.Label()
         Me.valve4Drain_BTN = New System.Windows.Forms.Button()
         Me.lbl_VD3 = New System.Windows.Forms.Label()
@@ -238,8 +238,6 @@ Partial Class mainForm
         Me.G_CAM_LBL = New System.Windows.Forms.Label()
         Me.G_T2_LBL = New System.Windows.Forms.Label()
         Me.G_T1_LBL = New System.Windows.Forms.Label()
-        Me.G_D6_LBL = New System.Windows.Forms.Label()
-        Me.G_D5_LBL = New System.Windows.Forms.Label()
         Me.G_D4_LBL = New System.Windows.Forms.Label()
         Me.G_D3_LBL = New System.Windows.Forms.Label()
         Me.G_D2_LBL = New System.Windows.Forms.Label()
@@ -299,10 +297,7 @@ Partial Class mainForm
         Me.Timer_SD_IN_LBL = New System.Windows.Forms.Label()
         Me.Timer_TestConnection_Timeout = New System.Windows.Forms.Timer(Me.components)
         Me.Label28 = New System.Windows.Forms.Label()
-        Me.Label36 = New System.Windows.Forms.Label()
-        Me.Label45 = New System.Windows.Forms.Label()
-        Me.laser_Combo = New System.Windows.Forms.ComboBox()
-        Me.light_Combo = New System.Windows.Forms.ComboBox()
+        Me.SaveConfigToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStripForm1.SuspendLayout()
         Me.GraphTabControl.SuspendLayout()
         Me.TAB_DROPS.SuspendLayout()
@@ -479,7 +474,7 @@ Partial Class mainForm
         '
         'FileToolStripMenuItem
         '
-        Me.FileToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ExitToolStripMenuItem})
+        Me.FileToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.SaveConfigToolStripMenuItem, Me.ExitToolStripMenuItem})
         Me.FileToolStripMenuItem.Name = "FileToolStripMenuItem"
         Me.FileToolStripMenuItem.Size = New System.Drawing.Size(37, 20)
         Me.FileToolStripMenuItem.Text = "&File"
@@ -488,7 +483,7 @@ Partial Class mainForm
         '
         Me.ExitToolStripMenuItem.Name = "ExitToolStripMenuItem"
         Me.ExitToolStripMenuItem.ShortcutKeys = CType((System.Windows.Forms.Keys.Alt Or System.Windows.Forms.Keys.X), System.Windows.Forms.Keys)
-        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(130, 22)
+        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.ExitToolStripMenuItem.Text = "E&xit"
         '
         'HelpToolStripMenuItem
@@ -945,7 +940,7 @@ Partial Class mainForm
         Me.D1Sol_CB.FormattingEnabled = True
         Me.D1Sol_CB.ImeMode = System.Windows.Forms.ImeMode.[On]
         Me.D1Sol_CB.ItemHeight = 20
-        Me.D1Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6"})
+        Me.D1Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4"})
         Me.D1Sol_CB.Location = New System.Drawing.Point(97, 57)
         Me.D1Sol_CB.Margin = New System.Windows.Forms.Padding(3, 3, 3, 6)
         Me.D1Sol_CB.Name = "D1Sol_CB"
@@ -1093,7 +1088,7 @@ Partial Class mainForm
         Me.D2Sol_CB.FormattingEnabled = True
         Me.D2Sol_CB.ImeMode = System.Windows.Forms.ImeMode.[On]
         Me.D2Sol_CB.ItemHeight = 20
-        Me.D2Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6"})
+        Me.D2Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4"})
         Me.D2Sol_CB.Location = New System.Drawing.Point(97, 95)
         Me.D2Sol_CB.Margin = New System.Windows.Forms.Padding(3, 3, 3, 6)
         Me.D2Sol_CB.Name = "D2Sol_CB"
@@ -1239,7 +1234,7 @@ Partial Class mainForm
         Me.D9Sol_CB.FormattingEnabled = True
         Me.D9Sol_CB.ImeMode = System.Windows.Forms.ImeMode.[On]
         Me.D9Sol_CB.ItemHeight = 20
-        Me.D9Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6"})
+        Me.D9Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4"})
         Me.D9Sol_CB.Location = New System.Drawing.Point(97, 361)
         Me.D9Sol_CB.Margin = New System.Windows.Forms.Padding(3, 3, 3, 6)
         Me.D9Sol_CB.Name = "D9Sol_CB"
@@ -1321,7 +1316,7 @@ Partial Class mainForm
         Me.D3Sol_CB.FormattingEnabled = True
         Me.D3Sol_CB.ImeMode = System.Windows.Forms.ImeMode.[On]
         Me.D3Sol_CB.ItemHeight = 20
-        Me.D3Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6"})
+        Me.D3Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4"})
         Me.D3Sol_CB.Location = New System.Drawing.Point(97, 133)
         Me.D3Sol_CB.Margin = New System.Windows.Forms.Padding(3, 3, 3, 6)
         Me.D3Sol_CB.Name = "D3Sol_CB"
@@ -1467,7 +1462,7 @@ Partial Class mainForm
         Me.D8Sol_CB.FormattingEnabled = True
         Me.D8Sol_CB.ImeMode = System.Windows.Forms.ImeMode.[On]
         Me.D8Sol_CB.ItemHeight = 20
-        Me.D8Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6"})
+        Me.D8Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4"})
         Me.D8Sol_CB.Location = New System.Drawing.Point(97, 323)
         Me.D8Sol_CB.Margin = New System.Windows.Forms.Padding(3, 3, 3, 6)
         Me.D8Sol_CB.Name = "D8Sol_CB"
@@ -1525,7 +1520,7 @@ Partial Class mainForm
         Me.D4Sol_CB.FormattingEnabled = True
         Me.D4Sol_CB.ImeMode = System.Windows.Forms.ImeMode.[On]
         Me.D4Sol_CB.ItemHeight = 20
-        Me.D4Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6"})
+        Me.D4Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4"})
         Me.D4Sol_CB.Location = New System.Drawing.Point(97, 171)
         Me.D4Sol_CB.Margin = New System.Windows.Forms.Padding(3, 3, 3, 6)
         Me.D4Sol_CB.Name = "D4Sol_CB"
@@ -1695,7 +1690,7 @@ Partial Class mainForm
         Me.D7Sol_CB.FormattingEnabled = True
         Me.D7Sol_CB.ImeMode = System.Windows.Forms.ImeMode.[On]
         Me.D7Sol_CB.ItemHeight = 20
-        Me.D7Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6"})
+        Me.D7Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4"})
         Me.D7Sol_CB.Location = New System.Drawing.Point(97, 285)
         Me.D7Sol_CB.Margin = New System.Windows.Forms.Padding(3, 3, 3, 6)
         Me.D7Sol_CB.Name = "D7Sol_CB"
@@ -1753,7 +1748,7 @@ Partial Class mainForm
         Me.D5Sol_CB.FormattingEnabled = True
         Me.D5Sol_CB.ImeMode = System.Windows.Forms.ImeMode.[On]
         Me.D5Sol_CB.ItemHeight = 20
-        Me.D5Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6"})
+        Me.D5Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4"})
         Me.D5Sol_CB.Location = New System.Drawing.Point(97, 209)
         Me.D5Sol_CB.Margin = New System.Windows.Forms.Padding(3, 3, 3, 6)
         Me.D5Sol_CB.Name = "D5Sol_CB"
@@ -1923,7 +1918,7 @@ Partial Class mainForm
         Me.D6Sol_CB.FormattingEnabled = True
         Me.D6Sol_CB.ImeMode = System.Windows.Forms.ImeMode.[On]
         Me.D6Sol_CB.ItemHeight = 20
-        Me.D6Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6"})
+        Me.D6Sol_CB.Items.AddRange(New Object() {"1", "2", "3", "4"})
         Me.D6Sol_CB.Location = New System.Drawing.Point(97, 247)
         Me.D6Sol_CB.Margin = New System.Windows.Forms.Padding(3, 3, 3, 6)
         Me.D6Sol_CB.Name = "D6Sol_CB"
@@ -1977,12 +1972,8 @@ Partial Class mainForm
         Me.TAB_SETTINGS.Controls.Add(Me.Label13)
         Me.TAB_SETTINGS.Controls.Add(Me.COMport_CB)
         Me.TAB_SETTINGS.Controls.Add(Me.refreshCOM_BTN)
-        Me.TAB_SETTINGS.Controls.Add(Me.valve6Drain_BTN)
-        Me.TAB_SETTINGS.Controls.Add(Me.lbl_VD6)
         Me.TAB_SETTINGS.Controls.Add(Me.SET_DEBUG_BTN)
         Me.TAB_SETTINGS.Controls.Add(Me.SET_DEBUG_LBL)
-        Me.TAB_SETTINGS.Controls.Add(Me.lbl_VD5)
-        Me.TAB_SETTINGS.Controls.Add(Me.valve5Drain_BTN)
         Me.TAB_SETTINGS.Controls.Add(Me.lbl_VD4)
         Me.TAB_SETTINGS.Controls.Add(Me.valve4Drain_BTN)
         Me.TAB_SETTINGS.Controls.Add(Me.lbl_VD3)
@@ -1998,6 +1989,44 @@ Partial Class mainForm
         Me.TAB_SETTINGS.TabIndex = 2
         Me.TAB_SETTINGS.Text = "Settings"
         Me.TAB_SETTINGS.UseVisualStyleBackColor = True
+        '
+        'light_Combo
+        '
+        Me.light_Combo.FormattingEnabled = True
+        Me.light_Combo.Items.AddRange(New Object() {"OFF", "ON", "Auto"})
+        Me.light_Combo.Location = New System.Drawing.Point(703, 375)
+        Me.light_Combo.Name = "light_Combo"
+        Me.light_Combo.Size = New System.Drawing.Size(79, 24)
+        Me.light_Combo.TabIndex = 658
+        '
+        'laser_Combo
+        '
+        Me.laser_Combo.FormattingEnabled = True
+        Me.laser_Combo.Items.AddRange(New Object() {"OFF", "ON", "Auto"})
+        Me.laser_Combo.Location = New System.Drawing.Point(703, 345)
+        Me.laser_Combo.Name = "laser_Combo"
+        Me.laser_Combo.Size = New System.Drawing.Size(79, 24)
+        Me.laser_Combo.TabIndex = 657
+        '
+        'Label45
+        '
+        Me.Label45.AutoSize = True
+        Me.Label45.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label45.Location = New System.Drawing.Point(583, 375)
+        Me.Label45.Name = "Label45"
+        Me.Label45.Size = New System.Drawing.Size(44, 20)
+        Me.Label45.TabIndex = 656
+        Me.Label45.Text = "Light"
+        '
+        'Label36
+        '
+        Me.Label36.AutoSize = True
+        Me.Label36.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label36.Location = New System.Drawing.Point(583, 345)
+        Me.Label36.Name = "Label36"
+        Me.Label36.Size = New System.Drawing.Size(102, 20)
+        Me.Label36.TabIndex = 655
+        Me.Label36.Text = "Laser pointer"
         '
         'Label44
         '
@@ -2440,29 +2469,6 @@ Partial Class mainForm
         Me.refreshCOM_BTN.TextAlign = System.Drawing.ContentAlignment.TopCenter
         Me.refreshCOM_BTN.UseVisualStyleBackColor = True
         '
-        'valve6Drain_BTN
-        '
-        Me.valve6Drain_BTN.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(128, Byte), Integer))
-        Me.valve6Drain_BTN.Enabled = False
-        Me.valve6Drain_BTN.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.valve6Drain_BTN.Location = New System.Drawing.Point(656, 273)
-        Me.valve6Drain_BTN.Name = "valve6Drain_BTN"
-        Me.valve6Drain_BTN.Size = New System.Drawing.Size(92, 28)
-        Me.valve6Drain_BTN.TabIndex = 260
-        Me.valve6Drain_BTN.Text = "CLOSED"
-        Me.valve6Drain_BTN.TextAlign = System.Drawing.ContentAlignment.TopCenter
-        Me.valve6Drain_BTN.UseVisualStyleBackColor = False
-        '
-        'lbl_VD6
-        '
-        Me.lbl_VD6.AutoSize = True
-        Me.lbl_VD6.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lbl_VD6.Location = New System.Drawing.Point(623, 276)
-        Me.lbl_VD6.Name = "lbl_VD6"
-        Me.lbl_VD6.Size = New System.Drawing.Size(18, 20)
-        Me.lbl_VD6.TabIndex = 259
-        Me.lbl_VD6.Text = "6"
-        '
         'SET_DEBUG_BTN
         '
         Me.SET_DEBUG_BTN.BackColor = System.Drawing.Color.Plum
@@ -2484,29 +2490,6 @@ Partial Class mainForm
         Me.SET_DEBUG_LBL.Size = New System.Drawing.Size(57, 20)
         Me.SET_DEBUG_LBL.TabIndex = 261
         Me.SET_DEBUG_LBL.Text = "Debug"
-        '
-        'lbl_VD5
-        '
-        Me.lbl_VD5.AutoSize = True
-        Me.lbl_VD5.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lbl_VD5.Location = New System.Drawing.Point(623, 237)
-        Me.lbl_VD5.Name = "lbl_VD5"
-        Me.lbl_VD5.Size = New System.Drawing.Size(18, 20)
-        Me.lbl_VD5.TabIndex = 258
-        Me.lbl_VD5.Text = "5"
-        '
-        'valve5Drain_BTN
-        '
-        Me.valve5Drain_BTN.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(128, Byte), Integer))
-        Me.valve5Drain_BTN.Enabled = False
-        Me.valve5Drain_BTN.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.valve5Drain_BTN.Location = New System.Drawing.Point(656, 233)
-        Me.valve5Drain_BTN.Name = "valve5Drain_BTN"
-        Me.valve5Drain_BTN.Size = New System.Drawing.Size(92, 28)
-        Me.valve5Drain_BTN.TabIndex = 257
-        Me.valve5Drain_BTN.Text = "CLOSED"
-        Me.valve5Drain_BTN.TextAlign = System.Drawing.ContentAlignment.TopCenter
-        Me.valve5Drain_BTN.UseVisualStyleBackColor = False
         '
         'lbl_VD4
         '
@@ -2788,26 +2771,6 @@ Partial Class mainForm
         Me.G_T1_LBL.Size = New System.Drawing.Size(26, 17)
         Me.G_T1_LBL.TabIndex = 11
         Me.G_T1_LBL.Text = "T1"
-        '
-        'G_D6_LBL
-        '
-        Me.G_D6_LBL.AutoSize = True
-        Me.G_D6_LBL.Font = New System.Drawing.Font("Verdana", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.G_D6_LBL.Location = New System.Drawing.Point(1101, 258)
-        Me.G_D6_LBL.Name = "G_D6_LBL"
-        Me.G_D6_LBL.Size = New System.Drawing.Size(46, 17)
-        Me.G_D6_LBL.TabIndex = 7
-        Me.G_D6_LBL.Text = "SOL6"
-        '
-        'G_D5_LBL
-        '
-        Me.G_D5_LBL.AutoSize = True
-        Me.G_D5_LBL.Font = New System.Drawing.Font("Verdana", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.G_D5_LBL.Location = New System.Drawing.Point(1101, 241)
-        Me.G_D5_LBL.Name = "G_D5_LBL"
-        Me.G_D5_LBL.Size = New System.Drawing.Size(46, 17)
-        Me.G_D5_LBL.TabIndex = 6
-        Me.G_D5_LBL.Text = "SOL5"
         '
         'G_D4_LBL
         '
@@ -3407,43 +3370,11 @@ Partial Class mainForm
         Me.Label28.Text = "dropController"
         Me.Label28.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
-        'Label36
+        'SaveConfigToolStripMenuItem
         '
-        Me.Label36.AutoSize = True
-        Me.Label36.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label36.Location = New System.Drawing.Point(583, 345)
-        Me.Label36.Name = "Label36"
-        Me.Label36.Size = New System.Drawing.Size(102, 20)
-        Me.Label36.TabIndex = 655
-        Me.Label36.Text = "Laser pointer"
-        '
-        'Label45
-        '
-        Me.Label45.AutoSize = True
-        Me.Label45.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label45.Location = New System.Drawing.Point(583, 375)
-        Me.Label45.Name = "Label45"
-        Me.Label45.Size = New System.Drawing.Size(44, 20)
-        Me.Label45.TabIndex = 656
-        Me.Label45.Text = "Light"
-        '
-        'laser_Combo
-        '
-        Me.laser_Combo.FormattingEnabled = True
-        Me.laser_Combo.Items.AddRange(New Object() {"OFF", "ON", "Auto"})
-        Me.laser_Combo.Location = New System.Drawing.Point(703, 345)
-        Me.laser_Combo.Name = "laser_Combo"
-        Me.laser_Combo.Size = New System.Drawing.Size(79, 24)
-        Me.laser_Combo.TabIndex = 657
-        '
-        'light_Combo
-        '
-        Me.light_Combo.FormattingEnabled = True
-        Me.light_Combo.Items.AddRange(New Object() {"OFF", "ON", "Auto"})
-        Me.light_Combo.Location = New System.Drawing.Point(703, 375)
-        Me.light_Combo.Name = "light_Combo"
-        Me.light_Combo.Size = New System.Drawing.Size(79, 24)
-        Me.light_Combo.TabIndex = 658
+        Me.SaveConfigToolStripMenuItem.Name = "SaveConfigToolStripMenuItem"
+        Me.SaveConfigToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.SaveConfigToolStripMenuItem.Text = "Save config"
         '
         'mainForm
         '
@@ -3458,9 +3389,7 @@ Partial Class mainForm
         Me.Controls.Add(Me.GroupBox1)
         Me.Controls.Add(Me.G_T1_LBL)
         Me.Controls.Add(Me.STATUS_LBL)
-        Me.Controls.Add(Me.G_D6_LBL)
         Me.Controls.Add(Me.Label38)
-        Me.Controls.Add(Me.G_D5_LBL)
         Me.Controls.Add(Me.Label50)
         Me.Controls.Add(Me.G_D4_LBL)
         Me.Controls.Add(Me.G_D3_LBL)
@@ -3638,10 +3567,6 @@ Partial Class mainForm
     Friend WithEvents FT1_BUTTON As Button
     Friend WithEvents SET_DEBUG_BTN As Button
     Friend WithEvents SET_DEBUG_LBL As Label
-    Friend WithEvents valve6Drain_BTN As Button
-    Friend WithEvents lbl_VD6 As Label
-    Friend WithEvents lbl_VD5 As Label
-    Friend WithEvents valve5Drain_BTN As Button
     Friend WithEvents lbl_VD4 As Label
     Friend WithEvents valve4Drain_BTN As Button
     Friend WithEvents lbl_VD3 As Label
@@ -3671,8 +3596,6 @@ Partial Class mainForm
     Friend WithEvents refreshCOM_BTN As Button
     Friend WithEvents Label25 As Label
     Friend WithEvents TAB_GRAPH As TabPage
-    Friend WithEvents G_D6_LBL As Label
-    Friend WithEvents G_D5_LBL As Label
     Friend WithEvents G_D4_LBL As Label
     Friend WithEvents G_D3_LBL As Label
     Friend WithEvents G_D2_LBL As Label
@@ -3783,4 +3706,5 @@ Partial Class mainForm
     Friend WithEvents laser_Combo As ComboBox
     Friend WithEvents Label45 As Label
     Friend WithEvents light_Combo As ComboBox
+    Friend WithEvents SaveConfigToolStripMenuItem As ToolStripMenuItem
 End Class
