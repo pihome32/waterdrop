@@ -27,13 +27,14 @@ char receivedChars[numChars];
 boolean haveNewData = false;
 boolean haveNewDrop = false;
 
-boolean waiting                 = true;
+boolean waiting = true;
 
 
 unsigned int sequenceMillis[10] = {0,0,0,0,0,0,0,0,0,0} ; /*Table with all time data for the sequence*/
 unsigned int sequencePortB[10]= {};
 unsigned int sequencePortD[10]= {};
 const int PortAddress[8]= {B0000000,B00000010,B00000100,B00001000,B00010000,B00100000,B01000000,B10000000};
+byte NBDrops = 0;
 
 #include <SoftwareSerial.h> 
 SoftwareSerial BTserial(18, 19); // RX, TX

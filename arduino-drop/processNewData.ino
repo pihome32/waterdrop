@@ -114,13 +114,13 @@ void processNewData()
           {  
                    sequenceReset();
                    int len = strlen(receivedChars);
-                   Serial.println(len);
-                   
-                   int start = 1;
-                   int record = 0;
+                  
+                   byte start = 1;
+                   byte record = 0;
                    String temp;
                    boolean IStimeData = true;
                    String timeData ;
+                   NBDrops = 0;
                    for (int i = 1; i <= len; i++) {
                       
                       if (receivedChars[i]!='/'){
@@ -131,8 +131,7 @@ void processNewData()
                           if (IStimeData == true){
                             timeData = temp;
                             IStimeData = false;
-                            BTserial.println(timeData.toInt());
-                            sequenceMillis[record]=timeData.toInt();
+                            sequenceMillis[NBDrops]=timeData.toInt();
                             
                           }else {
 
@@ -141,28 +140,28 @@ void processNewData()
                             int change = PortAddress[add.toInt()];
                             
                             if (port=="B"){
-                              sequencePortB[record]=sequencePortB[record-1] ^ change ;
-                            } else { sequencePortD[record]=sequencePortD[record-1] ^ change ;}
+                              sequencePortB[NBDrops]=sequencePortB[NBDrops-1] ^ change ;
+                            } else { sequencePortD[NBDrops]=sequencePortD[NBDrops-1] ^ change ;}
                             IStimeData = true;
-                            record = record + 1;
+                            ++NBDrops;
                           }
                         start=i+1;
-                        Serial.println(temp);
                         temp="";
                         
                       }
                       
 
                    }
+
                    BTserial.println("--------------");
                    for (int i = 0; i < 10; i++) {
-                      BTserial.println(sequenceMillis[i]);
+                      printDebug(String(sequenceMillis[i]));
                    }
                    for (int i = 0; i < 10; i++) {
-                      BTserial.println(sequencePortD[i]);
+                     printDebug(String(sequencePortD[i]));
                    } 
                    for (int i = 0; i < 10; i++) {
-                      BTserial.println(sequencePortB[i]);
+                     printDebug(String(sequencePortB[i]));
                    }         
                    receivedChars[0] = '\0';
 
