@@ -1,4 +1,8 @@
 
+/*function to create the drop sequence with flash and camera
+ * 
+ */
+
 unsigned long StartTime;
 
 void runSequence()  
