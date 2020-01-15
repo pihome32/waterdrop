@@ -24,11 +24,27 @@ const byte ST4_PIN               = 4;
 // Variables used for receiving serial data  ************************************************
 const byte numChars = 30;
 char receivedChars[numChars];
-boolean haveNewData = false;
+
 boolean haveNewDrop = false;
 
 boolean waiting = true;
 
+#define specialByte 253
+#define maxMessage 16
+char startMarker = '[';
+char endMarker = ']';
+byte bytesRecvd = 0;
+byte dataSentNum = 0; // the transmitted value of the number of bytes in the package i.e. the 2nd byte received
+byte dataRecvCount = 0;
+boolean inProgress = false;
+boolean startFound = false;
+boolean allReceived = false;
+byte dataSendCount = 0; // the number of 'real' bytes to be sent to the PC
+byte dataTotalSend = 0; // the number of bytes to send to PC taking account of encoded bytes
+
+byte dataRecvd[maxMessage]; 
+byte dataSend[maxMessage];  
+byte tempBuffer[maxMessage];
 
 unsigned int sequenceMillis[10] = {0,0,0,0,0,0,0,0,0,0} ; /*Table with all time data for the sequence*/
 unsigned int sequencePortB[10]= {};
@@ -75,6 +91,8 @@ void setup() {
     pinMode(FT1_PIN, OUTPUT);            digitalWrite(FT1_PIN, LOW);      
     pinMode(FT2_PIN, OUTPUT);            digitalWrite(FT2_PIN, LOW);    
     pinMode(FT3_PIN, OUTPUT);            digitalWrite(FT3_PIN, LOW);  
+
+
 }
 
 
@@ -89,7 +107,9 @@ String func;
  * camera/S F /0
  */
 void loop() {
-     recvWithStartEndMarkersBT(); 
-     if (haveNewData) { processNewData(); }
+     getSerialData();
+     recvWithStartEndMarkersUSB(); 
+     processData();
+
 
 }

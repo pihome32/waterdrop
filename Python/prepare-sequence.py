@@ -1,12 +1,16 @@
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
+import os
 import sys
 
 # use creds to create a client to interact with the Google Drive API
 
 scope = ['https://spreadsheets.google.com/feeds',
          'https://www.googleapis.com/auth/drive']
-creds = ServiceAccountCredentials.from_json_keyfile_name('google.json', scope)
+
+file = os.path.join(sys.path[0], "google.json");
+
+creds = ServiceAccountCredentials.from_json_keyfile_name(file, scope)
 client = gspread.authorize(creds)
 
 # Find a workbook by name and open the first sheet
@@ -44,8 +48,6 @@ arduino_sequence = arduino_sequence +  ']'
 end_time=human_table[-1][0]
 
 print(arduino_sequence)
-
-print(human_table)
 
 #Convert human table to single string
 human_sequence = '['

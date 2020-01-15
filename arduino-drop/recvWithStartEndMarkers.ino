@@ -13,42 +13,83 @@
 
 
 
-void recvWithStartEndMarkersBT() 
-{
+void getSerialData() {
 
-     static boolean recvInProgressBT = false;
-     static byte ndx = 0;
-     char startMarker = '[';
-     char endMarker = ']';
-     char rc;
+     // Receives data into tempBuffer[]
+     //   saves the number of bytes that the PC said it sent - which will be in tempBuffer[1]
+     //   uses decodeHighBytes() to copy data from tempBuffer to dataRecvd[]
      
-     if (BTserial.available() > 0) 
-     { 
-          rc = BTserial.read();
-          
-          if (USB_DEBUG) { Serial.print(rc); }
+     // the Arduino program will use the data it finds in dataRecvd[]
 
-          
-          if (recvInProgressBT == true) 
-          {
-               if (rc != endMarker) 
-               {
-                    receivedChars[ndx] = rc;
-                    ndx++;
-                    if (ndx >= numChars) { ndx = numChars - 1; }
-               }
-               else 
-               {
-                     receivedChars[ndx] = '\0'; // terminate the string
-                     recvInProgressBT = false;
-                     ndx = 0;
-                     haveNewData = true;
-               }
-          }
-          else if (rc == startMarker) { recvInProgressBT = true; }
-     }
+  if(BTserial.available() > 0) {
+
+    byte x = BTserial.read();
+    if (x == startMarker) { 
+      bytesRecvd = 0; 
+      inProgress = true;
+      // blinkLED(2);
+      // debugToPC("start received");
+      Serial.println("222");
+    }
+      
+    if(inProgress) {
+      tempBuffer[bytesRecvd] = x;
+      bytesRecvd ++;
+      Serial.println("222");
+    }
+
+    if (x == endMarker) {
+      inProgress = false;
+      allReceived = true;
+      
+        // save the number of bytes that were sent
+      dataSentNum = tempBuffer[1];
+  
+      decodeHighBytes();
+    }
+  }
 }
 
+//============================
+
+void processData() {
+
+    // processes the data that is in dataRecvd[]
+
+  if (allReceived) {
+  
+      // for demonstration just copy dataRecvd to dataSend
+    dataSendCount = dataRecvCount;
+    for (byte n = 0; n < dataRecvCount; n++) {
+       receivedChars[n] = char(dataRecvd[n]);
+       Serial.println(char(dataRecvd[n]));
+    }
+
+    processNewData();
+    delay(100);
+    allReceived = false; 
+  }
+}
+
+//============================
+
+void decodeHighBytes() {
+
+  //  copies to dataRecvd[] only the data bytes i.e. excluding the marker bytes and the count byte
+  //  and converts any bytes of 253 etc into the intended numbers
+  //  Note that bytesRecvd is the total of all the bytes including the markers
+  dataRecvCount = 0;
+  for (byte n = 1; n < bytesRecvd - 1 ; n++) { // 2 skips the start marker and the count byte, -1 omits the end marker
+    byte x = tempBuffer[n];
+    if (x == specialByte) {
+       // debugToPC("FoundSpecialByte");
+       n++;
+       x = x + tempBuffer[n];
+    }
+    dataRecvd[dataRecvCount] = x;
+    dataRecvCount ++;
+  }
+}
 
 
 
@@ -79,7 +120,6 @@ void recvWithStartEndMarkersUSB()
                      receivedChars[ndx] = '\0'; // terminate the string
                      recvInProgress = false;
                      ndx = 0;
-                     haveNewData = true;
                }
           }
           else if (rc == startMarker) { recvInProgress = true; }

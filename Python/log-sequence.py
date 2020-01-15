@@ -2,7 +2,7 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import datetime
 import sys
-
+import os
 
 scope = ['https://spreadsheets.google.com/feeds',
          'https://www.googleapis.com/auth/drive']
@@ -10,12 +10,12 @@ creds = ServiceAccountCredentials.from_json_keyfile_name('google.json', scope)
 client = gspread.authorize(creds)
 
 # Find a workbook by name and open the first sheet
-# Make sure you use the right name here.
-file = client.open("WaterDrop-sequence")
+
+
 logsheet = file.worksheet("logs")
 
-
-file1 = open("sequence.txt","r")
+file = os.path.join(sys.path[0], "sequence.txt")
+file1 = open(file,"r")
 file_content = file1.readlines()
 
 arduino_sequence = file_content[0]
