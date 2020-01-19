@@ -5,8 +5,8 @@ const char versionNumber[] = "V3_2019_005_03";
 const char fileName[] = __FILE__;
 const char compileDate[] = __DATE__;
 
-const byte LED_ACTIVE_PIN        = 15;
-const byte LED_WAITING_PIN       = 14;
+const byte LED_ACTIVE_PIN        = A0;
+const byte LED_WAITING_PIN       = A1;
 
 const byte CT_SHUTTER_PIN        = 12;
 const byte CT_FOCUS_PIN          = 11;
@@ -26,6 +26,7 @@ const byte numChars = 30;
 char receivedChars[numChars];
 
 boolean haveNewDrop = false;
+boolean haveNewData = false;
 
 boolean waiting = true;
 
@@ -46,9 +47,9 @@ byte dataRecvd[maxMessage];
 byte dataSend[maxMessage];  
 byte tempBuffer[maxMessage];
 
-unsigned int sequenceMillis[10] = {0,0,0,0,0,0,0,0,0,0} ; /*Table with all time data for the sequence*/
-unsigned int sequencePortB[10]= {};
-unsigned int sequencePortD[10]= {};
+unsigned int sequenceMillis[20] = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0} ; /*Table with all time data for the sequence*/
+unsigned int sequencePortB[20]= {};
+unsigned int sequencePortD[20]= {};
 const int PortAddress[8]= {B0000000,B00000010,B00000100,B00001000,B00010000,B00100000,B01000000,B10000000};
 byte NBDrops = 0;
 
@@ -97,19 +98,13 @@ void setup() {
 
 
 
-String command;
-String func;
-/*Message format
- * start/
- * sequence/00xA0/150xB1 
- * Solenoid/1x0
- * flash/0/1
- * camera/S F /0
- */
+
+
 void loop() {
      getSerialData();
      recvWithStartEndMarkersUSB(); 
      processData();
+     checkData();
 
 
 }

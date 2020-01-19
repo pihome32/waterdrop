@@ -15,8 +15,8 @@
 void processNewData()  
 {
 
-           Serial.println("start process");
-          Serial.println(receivedChars[0]);
+          Serial.println("start process");
+
           // HELLO message
           if (strcmp(receivedChars, "HELLO")  == 0)
           {
@@ -62,6 +62,16 @@ void processNewData()
           }       
 
 
+         // Start de drop sequence
+          if (strcmp(receivedChars, "START")  == 0)
+          {
+                   printDebug("Run start");  
+                    
+                   receivedChars[0] = '\0';
+                   if (haveNewData == false){
+                    runSequence();
+                   }
+          }
            
           // Drain Valve
           // O11 - Valve 1 open    O10 - Valve 1 close
@@ -70,9 +80,6 @@ void processNewData()
                    byte valve = receivedChars[1] - 48;  //  -48 converts an ascii "1" in to the value 1
                    byte flag =  receivedChars[2] - 48;
                    byte valvePIN = 0;
-                   Serial.println("dddddddddddddddddd");
-                   Serial.println(receivedChars[2]);
-
                    switch (valve) {
                     case 1 : 
                       valvePIN = 7;
@@ -87,7 +94,7 @@ void processNewData()
                       valvePIN = 4;
                       break;
                    }
-                   Serial.println(String(valvePIN));
+
                    if (valve >0 && valve < 7)
                    {
                         // open valve
@@ -146,71 +153,23 @@ void processNewData()
 
           }  
 
-
-         // Start de drop sequence
-          if (strcmp(receivedChars, "START")  == 0)
-          {
-                   printDebug("Run start");  
-                    
-                   receivedChars[0] = '\0';
-                   runSequence();
-          }    
-
-      if ( receivedChars[0] == 'D'   )
+    
+      //Store the new sequence into variables
+      if ( receivedChars[0] == 'D'   ) 
           {  
-                   sequenceReset();
-                   int len = strlen(receivedChars);
-                  
-                   byte start = 1;
-                   byte record = 0;
-                   String temp;
-                   boolean IStimeData = true;
-                   String timeData ;
-                   NBDrops = 0;
-                   for (int i = 1; i <= len; i++) {
-                      
-                      if (receivedChars[i]!='/'){
-                        temp = temp + String(receivedChars[i]);
-                        
-                      } else {
-                          
-                          if (IStimeData == true){
-                            timeData = temp;
-                            IStimeData = false;
-                            sequenceMillis[NBDrops]=timeData.toInt();
-                            
-                          }else {
+                  printDebug("RECIEVED NEW DATA"); 
+                  NBDrops = receivedChars[1] - 48;  
+                  sequenceReset();
+                  haveNewData = true;
+                  digitalWrite(LED_WAITING_PIN, HIGH);
+          }
+            //Store the new sequence into variables
+      if ( receivedChars[0] == 'X'   ) 
+          {  
+                  printDebug("RECIEVED NEW DATA"); 
 
-                            String port = temp.substring(0,1);
-                            String add = temp.substring(1,1);
-                            int change = PortAddress[add.toInt()];
-                            
-                            if (port=="B"){
-                              sequencePortB[NBDrops]=sequencePortB[NBDrops-1] ^ change ;
-                            } else { sequencePortD[NBDrops]=sequencePortD[NBDrops-1] ^ change ;}
-                            IStimeData = true;
-                            ++NBDrops;
-                          }
-                        start=i+1;
-                        temp="";
-                        
-                      }
-                      
+                  if (haveNewData == true) { storeSequence();}
+                  //storeSequence();
+          }
 
-                   }
-
-                   BTserial.println("--------------");
-                   for (int i = 0; i < 10; i++) {
-                      printDebug(String(sequenceMillis[i]));
-                   }
-                   for (int i = 0; i < 10; i++) {
-                     printDebug(String(sequencePortD[i]));
-                   } 
-                   for (int i = 0; i < 10; i++) {
-                     printDebug(String(sequencePortB[i]));
-                   }         
-                   receivedChars[0] = '\0';
-
-          }   
-
-} // void copyNewSerialData() [D234/B1/345/B3/]
+} 

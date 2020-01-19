@@ -29,13 +29,12 @@ void getSerialData() {
       inProgress = true;
       // blinkLED(2);
       // debugToPC("start received");
-      Serial.println("222");
+
     }
       
     if(inProgress) {
       tempBuffer[bytesRecvd] = x;
       bytesRecvd ++;
-      Serial.println("222");
     }
 
     if (x == endMarker) {
