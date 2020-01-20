@@ -6,7 +6,7 @@ const char fileName[] = __FILE__;
 const char compileDate[] = __DATE__;
 
 const byte LED_ACTIVE_PIN        = A0;
-const byte LED_WAITING_PIN       = A1;
+const byte LED_COM_PIN       = A1;
 
 const byte CT_SHUTTER_PIN        = 12;
 const byte CT_FOCUS_PIN          = 11;
@@ -25,10 +25,6 @@ const byte ST4_PIN               = 4;
 const byte numChars = 30;
 char receivedChars[numChars];
 
-boolean haveNewDrop = false;
-boolean haveNewData = false;
-
-boolean waiting = true;
 
 #define specialByte 253
 #define maxMessage 16
@@ -37,7 +33,7 @@ char endMarker = ']';
 byte bytesRecvd = 0;
 byte dataSentNum = 0; // the transmitted value of the number of bytes in the package i.e. the 2nd byte received
 byte dataRecvCount = 0;
-boolean inProgress = false;
+boolean inBTProgress = false;
 boolean startFound = false;
 boolean allReceived = false;
 byte dataSendCount = 0; // the number of 'real' bytes to be sent to the PC
@@ -51,7 +47,7 @@ unsigned int sequenceMillis[20] = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0} ; /*
 unsigned int sequencePortB[20]= {};
 unsigned int sequencePortD[20]= {};
 const int PortAddress[8]= {B0000000,B00000010,B00000100,B00001000,B00010000,B00100000,B01000000,B10000000};
-byte NBDrops = 0;
+byte NBsequence = 0;
 
 #include <SoftwareSerial.h> 
 SoftwareSerial BTserial(18, 19); // RX, TX
@@ -77,7 +73,7 @@ void setup() {
     // status LEDs
     digitalWrite(LED_ACTIVE_PIN, HIGH); 
         // status LEDs
-    pinMode(LED_WAITING_PIN,OUTPUT); digitalWrite(LED_WAITING_PIN, LOW); 
+    pinMode(LED_COM_PIN,OUTPUT); digitalWrite(LED_COM_PIN, LOW); 
     pinMode(LED_ACTIVE_PIN,OUTPUT);  digitalWrite(LED_ACTIVE_PIN, LOW); 
   
     // define the trigger pins and set the pins to low
@@ -101,10 +97,12 @@ void setup() {
 
 
 void loop() {
-     getSerialData();
-     recvWithStartEndMarkersUSB(); 
-     processData();
-     checkData();
+     if (inBTProgress == false) {getSerialData();
+            digitalWrite(LED_COM_PIN, LOW); }
+     else { digitalWrite(LED_COM_PIN, HIGH);} 
+     //recvWithStartEndMarkersUSB(); 
+     if (allReceived) { processNewData(); }
+     //checkData();
 
 
 }

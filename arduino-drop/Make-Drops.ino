@@ -9,7 +9,7 @@ void runSequence()
 {
     Serial.end();
     BTserial.end();
-    unsigned int realMillis[10] = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0} ;
+    unsigned int realMillis[20] = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0} ;
     boolean done=false;
     StartTime = millis(); 
     while (StartTime == millis())  // Make sure we are starting at the beginning of a millisecond
@@ -24,7 +24,7 @@ void runSequence()
         PORTD = sequencePortD[cmd];
         realMillis[cmd]=millis()-StartTime;
       }
-      if (cmd >= NBDrops) {
+      if (cmd >= NBsequence) {
         done = true;
       }
     
@@ -35,8 +35,9 @@ void runSequence()
   Serial.begin(9600);
   BTserial.begin(9600);
   BTserial.println("Sequence terminated");
-  for (int i = 0; i < NBDrops; i++) {
-    BTserial.println(String(realMillis[i])); }
+  for (int i = 0; i < NBsequence; i++) {
+    BTserial.println(String(realMillis[i]));
+    Serial.println(String(realMillis[i]));}
  
 
 }

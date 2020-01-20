@@ -26,24 +26,23 @@ void getSerialData() {
     byte x = BTserial.read();
     if (x == startMarker) { 
       bytesRecvd = 0; 
-      inProgress = true;
+      inBTProgress = true;
       // blinkLED(2);
       // debugToPC("start received");
 
     }
       
-    if(inProgress) {
+    if(inBTProgress) {
       tempBuffer[bytesRecvd] = x;
       bytesRecvd ++;
     }
 
     if (x == endMarker) {
-      inProgress = false;
+      inBTProgress = false;
       allReceived = true;
       
         // save the number of bytes that were sent
       dataSentNum = tempBuffer[1];
-  
       decodeHighBytes();
     }
   }
@@ -51,29 +50,7 @@ void getSerialData() {
 
 //============================
 
-void processData() {
-
-    // processes the data that is in dataRecvd[]
-
-  if (allReceived) {
-  
-      // for demonstration just copy dataRecvd to dataSend
-    dataSendCount = dataRecvCount;
-    for (byte n = 0; n < dataRecvCount; n++) {
-       receivedChars[n] = char(dataRecvd[n]);
-       Serial.println(char(dataRecvd[n]));
-    }
-
-    processNewData();
-    delay(100);
-    allReceived = false; 
-  }
-}
-
-//============================
-
 void decodeHighBytes() {
-
   //  copies to dataRecvd[] only the data bytes i.e. excluding the marker bytes and the count byte
   //  and converts any bytes of 253 etc into the intended numbers
   //  Note that bytesRecvd is the total of all the bytes including the markers
@@ -88,39 +65,5 @@ void decodeHighBytes() {
     dataRecvd[dataRecvCount] = x;
     dataRecvCount ++;
   }
-}
 
-
-
-void recvWithStartEndMarkersUSB() 
-{
-     static boolean recvInProgress = false;
-     static byte ndx = 0;
-     char startMarker = '[';
-     char endMarker = ']';
-     char rc;
-
-     if (Serial.available() > 0) 
-     {
-          rc = Serial.read();
-          
-          // inCount++;  // used for debugging
-          
-          if (recvInProgress == true) 
-          {
-               if (rc != endMarker) 
-               {
-                    receivedChars[ndx] = rc;
-                    ndx++;
-                    if (ndx >= numChars) { ndx = numChars - 1; }
-               }
-               else 
-               {
-                     receivedChars[ndx] = '\0'; // terminate the string
-                     recvInProgress = false;
-                     ndx = 0;
-               }
-          }
-          else if (rc == startMarker) { recvInProgress = true; }
-     }
 }

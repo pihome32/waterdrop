@@ -16,6 +16,12 @@ void processNewData()
 {
 
           Serial.println("start process");
+          for (byte n = 0; n < dataRecvCount; n++) {
+              receivedChars[n] = char(dataRecvd[n]);
+              Serial.write(char(dataRecvd[n]));
+              Serial.println("process");
+              if (receivedChars[n] == 'D') { storeSequence();}
+            }
 
           // HELLO message
           if (strcmp(receivedChars, "HELLO")  == 0)
@@ -25,8 +31,7 @@ void processNewData()
                BTserial.print("[HELLO]");
   
               // turn off the flashing LED to show we are connected
-              digitalWrite(LED_WAITING_PIN, HIGH); 
-              waiting = false;
+              digitalWrite(LED_ACTIVE_PIN, HIGH); 
               receivedChars[0] = '\0';
           }
 
@@ -36,8 +41,7 @@ void processNewData()
           if (strcmp(receivedChars, "BYE")  == 0)
           {
                    // turn on the flashing LED to show we are no longer connected
-                   digitalWrite(LED_WAITING_PIN, LOW); 
-                   waiting = true;
+                   digitalWrite(LED_ACTIVE_PIN, LOW); 
                    receivedChars[0] = '\0';
           }         
            
@@ -68,9 +72,20 @@ void processNewData()
                    printDebug("Run start");  
                     
                    receivedChars[0] = '\0';
-                   if (haveNewData == false){
-                    runSequence();
-                   }
+                   runSequence();
+
+          }
+
+          // Check sequence in memory
+          if (strcmp(receivedChars, "CHECK")  == 0)
+          {
+ 
+                   for (int i=0 ; i <= NBsequence; i++){Serial.println(sequenceMillis[i]);} 
+                   for (int i=0 ; i <= NBsequence; i++){Serial.println(sequencePortB[i]);} 
+                   for (int i=0 ; i <= NBsequence; i++){Serial.println(sequencePortD[i]);} 
+                   receivedChars[0] = '\0';
+                   runSequence();
+
           }
            
           // Drain Valve
@@ -144,8 +159,8 @@ void processNewData()
                    byte ONOFF =  receivedChars[2] - 48;
                    byte PIN = 0;
                    if (cameraFunc == 1){
-                    PIN = 12; //Camera shutter
-                   } else { PIN = 11;} //Camera focus
+                    PIN = CT_SHUTTER_PIN; //Camera shutter
+                   } else { PIN = CT_FOCUS_PIN;} //Camera focus
                    if (ONOFF == 1) { digitalWrite(PIN, HIGH); }
                    else { digitalWrite(PIN, LOW); }
                    
@@ -154,22 +169,7 @@ void processNewData()
           }  
 
     
-      //Store the new sequence into variables
-      if ( receivedChars[0] == 'D'   ) 
-          {  
-                  printDebug("RECIEVED NEW DATA"); 
-                  NBDrops = receivedChars[1] - 48;  
-                  sequenceReset();
-                  haveNewData = true;
-                  digitalWrite(LED_WAITING_PIN, HIGH);
-          }
-            //Store the new sequence into variables
-      if ( receivedChars[0] == 'X'   ) 
-          {  
-                  printDebug("RECIEVED NEW DATA"); 
-
-                  if (haveNewData == true) { storeSequence();}
-                  //storeSequence();
-          }
-
+    delay(100);
+    inBTProgress= false;
+    allReceived = false; 
 } 

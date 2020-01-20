@@ -22,6 +22,12 @@ sheet = file.worksheet("sequence")
 human_table=[]
 arduino_sequence='[D'
 
+def main():
+    return(arduino_sequence)
+
+
+print("Start reading google sheet")
+
 for line in range(2,15):
     millis = sheet.cell(line,2).value
     if millis != '':
@@ -35,17 +41,18 @@ for line in range(2,15):
 
 #Sort table by time
 human_table.sort()
+print("Reading OK")
+
 
 #Convert to arduino readable sequence
 i = 1
-print('[D'  + str(len(human_table)) + ']') #
+
 for step in human_table:
         func = step[1]
         func = func[0:3] #take the first 3 letters
         switcher={'SO1':'D7','SO2':'D6','SO3':'D5','FL1':'B2','FL2':'B1','FL3':'B0','CAM':'B4','FO':'B5'}
-        arduino_sequence = arduino_sequence + str(step[0]) + switcher.get(func,'XXXXX') + ':'
+        arduino_sequence = arduino_sequence + str(step[0]+1000) + switcher.get(func,'XXXXX') + ':'
         time.sleep(1)
-        print('[X'  + str(i) + ':' + str(step[0]+1000) + switcher.get(func,'XXXXX') + ']')
         i = 1 + i
 
 
@@ -63,6 +70,8 @@ while i < len(human_table):
     i += 1
 
 human_sequence = human_sequence + ']'
+print("human table : " + human_sequence)
+print("Arduino sequence : " + arduino_sequence)
 
 file1 = open("sequence.txt","w")
 file1.write(arduino_sequence)
@@ -70,3 +79,4 @@ file1.write('\n')
 file1.write(human_sequence)
 
 file1.close()
+main()
