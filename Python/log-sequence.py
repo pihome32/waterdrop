@@ -6,17 +6,18 @@ import os
 
 scope = ['https://spreadsheets.google.com/feeds',
          'https://www.googleapis.com/auth/drive']
-creds = ServiceAccountCredentials.from_json_keyfile_name('C:\Users\m.favre.ST12\Documents\Perso\waterdrop\Python\google.json', scope)
+cred_file = os.path.join(sys.path[0], "google.json");
+creds = ServiceAccountCredentials.from_json_keyfile_name(cred_file, scope)
 client = gspread.authorize(creds)
 
 # Find a workbook by name and open the first sheet
 
-file = client.open("WaterDrop-sequence")
-sheet = file.worksheet("logs")
+googlesheet = client.open("WaterDrop-sequence")
+sheet = googlesheet.worksheet("logs")
 
-file = os.path.join(sys.path[0], "sequence.txt")
-file1 = open(file,"r")
-file_content = file1.readlines()
+file_name = os.path.join(sys.path[0], "sequence.txt")
+sequence_file = open(file_name,"r")
+file_content = sequence_file.readlines()
 
 arduino_sequence = file_content[0]
 
@@ -31,3 +32,5 @@ row = len(col_values)+1
 sheet.update_cell(row  ,1, now)
 sheet.update_cell(row ,2, arduino_sequence)
 sheet.update_cell(row ,3, human_sequence)
+
+print("log finished")

@@ -8,7 +8,7 @@ import time
 scope = ['https://spreadsheets.google.com/feeds',
          'https://www.googleapis.com/auth/drive']
 
-file = os.path.join(sys.path[0], "C:\Users\m.favre.ST12\Documents\Perso\waterdrop\Python\google.json");
+file = os.path.join(sys.path[0], "google.json");
 
 creds = ServiceAccountCredentials.from_json_keyfile_name(file, scope)
 client = gspread.authorize(creds)
@@ -70,12 +70,12 @@ while i < len(human_table):
 
 human_sequence = human_sequence + ']'
 print("human table : " + human_sequence)
-print("Arduino sequence : " + arduino_sequence)
+print(arduino_sequence)
+sequence_filename = os.path.join(sys.path[0], "sequence.txt");
+sequence_file = open(sequence_filename,"w")
+sequence_file.write(arduino_sequence)
+sequence_file.write('\n')
+sequence_file.write(human_sequence)
 
-file1 = open("C:\Users\m.favre.ST12\Documents\Perso\waterdrop\Python\sequence.txt","w")
-file1.write(arduino_sequence)
-file1.write('\n')
-file1.write(human_sequence)
-
-file1.close()
-main()
+sequence_file.close()
+#main()
