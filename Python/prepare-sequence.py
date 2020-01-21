@@ -8,7 +8,7 @@ import time
 scope = ['https://spreadsheets.google.com/feeds',
          'https://www.googleapis.com/auth/drive']
 
-file = os.path.join(sys.path[0], "google.json");
+file = os.path.join(sys.path[0], "C:\Users\m.favre.ST12\Documents\Perso\waterdrop\Python\google.json");
 
 creds = ServiceAccountCredentials.from_json_keyfile_name(file, scope)
 client = gspread.authorize(creds)
@@ -20,10 +20,10 @@ sheet = file.worksheet("sequence")
 
 
 human_table=[]
-arduino_sequence='[D'
+arduino_sequence='[N'
 
 def main():
-    return(arduino_sequence)
+    return("arduino_sequence")
 
 
 print("Start reading google sheet")
@@ -51,12 +51,11 @@ for step in human_table:
         func = step[1]
         func = func[0:3] #take the first 3 letters
         switcher={'SO1':'D7','SO2':'D6','SO3':'D5','FL1':'B2','FL2':'B1','FL3':'B0','CAM':'B4','FO':'B5'}
-        arduino_sequence = arduino_sequence + str(step[0]+1000) + switcher.get(func,'XXXXX') + ':'
-        time.sleep(1)
+        arduino_sequence = arduino_sequence + str(step[0]+1000) + switcher.get(func,'XXXXX') +','
         i = 1 + i
 
 
-arduino_sequence = arduino_sequence +  ']'
+arduino_sequence = arduino_sequence[:-1] +  ']'
 #Determine the end time with the last element in the table
 end_time=human_table[-1][0]
 
@@ -73,7 +72,7 @@ human_sequence = human_sequence + ']'
 print("human table : " + human_sequence)
 print("Arduino sequence : " + arduino_sequence)
 
-file1 = open("sequence.txt","w")
+file1 = open("C:\Users\m.favre.ST12\Documents\Perso\waterdrop\Python\sequence.txt","w")
 file1.write(arduino_sequence)
 file1.write('\n')
 file1.write(human_sequence)

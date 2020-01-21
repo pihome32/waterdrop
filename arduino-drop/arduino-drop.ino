@@ -22,26 +22,21 @@ const byte ST4_PIN               = 4;
 
 
 // Variables used for receiving serial data  ************************************************
-const byte numChars = 30;
+const byte numChars = 100;
 char receivedChars[numChars];
 
 
-#define specialByte 253
-#define maxMessage 16
 char startMarker = '[';
 char endMarker = ']';
 byte bytesRecvd = 0;
-byte dataSentNum = 0; // the transmitted value of the number of bytes in the package i.e. the 2nd byte received
 byte dataRecvCount = 0;
 boolean inBTProgress = false;
-boolean startFound = false;
 boolean allReceived = false;
-byte dataSendCount = 0; // the number of 'real' bytes to be sent to the PC
-byte dataTotalSend = 0; // the number of bytes to send to PC taking account of encoded bytes
+char tempChars[numChars]; 
 
-byte dataRecvd[maxMessage]; 
-byte dataSend[maxMessage];  
-byte tempBuffer[maxMessage];
+
+bool newData = false;
+
 
 unsigned int sequenceMillis[20] = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0} ; /*Table with all time data for the sequence*/
 unsigned int sequencePortB[20]= {};
@@ -93,16 +88,19 @@ void setup() {
 }
 
 
-
-
-
 void loop() {
-     if (inBTProgress == false) {getSerialData();
-            digitalWrite(LED_COM_PIN, LOW); }
+     getSerialBT();
+     if (inBTProgress == false) {digitalWrite(LED_COM_PIN, LOW);}
      else { digitalWrite(LED_COM_PIN, HIGH);} 
-     //recvWithStartEndMarkersUSB(); 
-     if (allReceived) { processNewData(); }
-     //checkData();
-
+     if (newData == true) {
+        strcpy(tempChars, receivedChars);
+        Serial.println(receivedChars);
+            // this temporary copy is necessary to protect the original data
+            //   because strtok() used in parseData() replaces the commas with \0
+       // parseData();
+       // showParsedData();
+        newData = false;
+        processNewData();
+    }
 
 }

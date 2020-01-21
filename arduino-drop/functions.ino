@@ -9,8 +9,7 @@ void sequenceReset()
         sequencePortD[i]=B00000000;
         sequenceMillis[i]=0;       
     }
-  
-}
+  }
 
 
 void printDebug(String data)
@@ -34,25 +33,32 @@ void storeSequence()
  
  sequenceReset();
 
-  //Format : [D1000B4,30000D7]
- for (byte n = 1; n < dataRecvCount; n++) {
-      char loopChar=  char(dataRecvd[n]);
-      if (loopChar == ',') {
+  //Format : [N1000B4,30000D7]
+ for (byte n = 1; n < sizeof(receivedChars); n++) {
+      if (receivedChars[n] == ',') {
         NBsequence++;
         temp = "";
       }
-      else if (isDigit(loopChar)== false) {  
-        Serial.println("2222222222");
-        sequenceMillis[NBsequence] = temp.toInt();
-        byte add =  char(dataRecvd[n+1]) -48;
-        int change = PortAddress[add];
-        String port = String(loopChar);
-        if (port == "B"){sequencePortB[NBsequence]=sequencePortB[NBsequence-1] ^ change ;} 
-        else { sequencePortD[NBsequence]=sequencePortD[NBsequence-1] ^ change ;} 
-     } 
+      else if (receivedChars[n]== 'B') {  
+            sequenceMillis[NBsequence] = temp.toInt();
+            byte add =  receivedChars[n+1] -48;
+            int change = PortAddress[add];
+            String port = String(receivedChars[n]);
+            sequencePortB[NBsequence]=sequencePortB[NBsequence-1] ^ change ; 
+      } else if (receivedChars[n]== 'D') {
+            sequenceMillis[NBsequence] = temp.toInt();
+            byte add =  receivedChars[n+1] -48;
+            int change = PortAddress[add];
+            String port = String(receivedChars[n]);
+            sequencePortD[NBsequence]=sequencePortB[NBsequence-1] ^ change ; 
+     } else { temp = temp + String(receivedChars[n]);}
  }
 
 Serial.println("millis");
 for (int i=0 ; i <= NBsequence; i++){Serial.println(sequenceMillis[i]);}
+Serial.println("port B");
+for (int i=0 ; i <= NBsequence; i++){Serial.println(sequencePortB[i]);}
+Serial.println("port D");
+for (int i=0 ; i <= NBsequence; i++){Serial.println(sequencePortD[i]);}
        
 }

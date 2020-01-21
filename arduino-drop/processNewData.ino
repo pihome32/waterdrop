@@ -11,17 +11,8 @@
 * 
 */
 
-
 void processNewData()  
-{
-
-          Serial.println("start process");
-          for (byte n = 0; n < dataRecvCount; n++) {
-              receivedChars[n] = char(dataRecvd[n]);
-              Serial.write(char(dataRecvd[n]));
-              Serial.println("process");
-              if (receivedChars[n] == 'D') { storeSequence();}
-            }
+{        
 
           // HELLO message
           if (strcmp(receivedChars, "HELLO")  == 0)
@@ -167,7 +158,13 @@ void processNewData()
                    receivedChars[0] = '\0';
 
           }  
+         // Store new sequnce
+          if ( receivedChars[0] == 'N'   )
+          {  
+                   storeSequence();                   
+                   receivedChars[0] = '\0';
 
+          }  
     
     delay(100);
     inBTProgress= false;
