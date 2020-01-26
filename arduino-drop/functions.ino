@@ -61,12 +61,12 @@ void storeSequence()
             }
  }
 
-Serial.println("millis");
+/*Serial.println("millis");
 for (int i=0 ; i <= NBsequence; i++){Serial.println(sequenceMillis[i]);}
 Serial.println("port B");
 for (int i=0 ; i <= NBsequence; i++){Serial.println(sequencePortB[i]);}
 Serial.println("port D");
-for (int i=0 ; i <= NBsequence; i++){Serial.println(sequencePortD[i]);}
+for (int i=0 ; i <= NBsequence; i++){Serial.println(sequencePortD[i]);}*/
 Serial.println("READY and START");
 runSequence();       
 }
