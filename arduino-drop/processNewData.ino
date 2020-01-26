@@ -78,13 +78,6 @@ void processNewData()
                    runSequence();
 
           }
-                if ( receivedChars[0] == 'T'   )  {
-                   Serial.println("dfdsfdsffds");
-                    PORTD=B10000000;
-                    delay(50);
-                    PORTD=B10000000 ^ B10000000;
-                    
-                }
           // Drain Valve
           // O11 - Valve 1 open    O10 - Valve 1 close
           if ( receivedChars[0] == 'O'   )
