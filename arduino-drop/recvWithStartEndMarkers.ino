@@ -15,8 +15,8 @@ void getSerialBT() {
     static byte ndx = 0;
     char rc;
 
-    while (BTserial.available() > 0 && newData == false) {
-        rc = BTserial.read();
+    while (Serial.available() > 0 && newData == false) {
+        rc = Serial.read();
 
         if (inBTProgress == true) {
             if (rc != endMarker) {

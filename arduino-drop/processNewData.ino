@@ -19,7 +19,7 @@ void processNewData()
           {
                // send a HELLO message back to the controller app
                Serial.print("[HELLO]");
-               BTserial.print("[HELLO]");
+//               BTserial.print("[HELLO]");
   
               // turn off the flashing LED to show we are connected
               digitalWrite(LED_ACTIVE_PIN, HIGH); 
@@ -42,7 +42,7 @@ void processNewData()
           if (strcmp(receivedChars, "VERSION")  == 0)
           {
                    Serial.print("[V,");   Serial.print(versionNumber);    Serial.print(",");    Serial.print(compileDate);    Serial.print("]");
-                   BTserial.print("[V,"); BTserial.print(versionNumber);  BTserial.print(",");  BTserial.print(compileDate);  BTserial.print("]");
+           //        BTserial.print("[V,"); BTserial.print(versionNumber);  BTserial.print(",");  BTserial.print(compileDate);  BTserial.print("]");
                    receivedChars[0] = '\0';
           }              
 
@@ -52,7 +52,7 @@ void processNewData()
           if (strcmp(receivedChars, "AYT")  == 0)
           {
                    Serial.print("[YIA]");  
-                   BTserial.print("[YIA]"); 
+                  // BTserial.print("[YIA]"); 
                    receivedChars[0] = '\0';
           }       
 
@@ -70,15 +70,21 @@ void processNewData()
           // Check sequence in memory
           if (strcmp(receivedChars, "CHECK")  == 0)
           {
- 
-                   for (int i=0 ; i <= NBsequence; i++){Serial.println(sequenceMillis[i]);} 
-                   for (int i=0 ; i <= NBsequence; i++){Serial.println(sequencePortB[i]);} 
-                   for (int i=0 ; i <= NBsequence; i++){Serial.println(sequencePortD[i]);} 
+                   Serial.println("NB sequence : " + String(NBsequence));
+                   for (int i=0 ; i <= NBsequence; i++){Serial.println("Millis"); Serial.println(sequenceMillis[i]);} 
+                   for (int i=0 ; i <= NBsequence; i++){Serial.println("PortB"); Serial.println(sequencePortB[i]);} 
+                   for (int i=0 ; i <= NBsequence; i++){Serial.println("PortD"); Serial.println(sequencePortD[i]);} 
                    receivedChars[0] = '\0';
                    runSequence();
 
           }
-           
+                if ( receivedChars[0] == 'T'   )  {
+                   Serial.println("dfdsfdsffds");
+                    PORTD=B10000000;
+                    delay(50);
+                    PORTD=B10000000 ^ B10000000;
+                    
+                }
           // Drain Valve
           // O11 - Valve 1 open    O10 - Valve 1 close
           if ( receivedChars[0] == 'O'   )

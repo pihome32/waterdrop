@@ -1,7 +1,9 @@
 
+//[N1000B4,1500D7,1520D7,1605D7,1620D7,1700D7,1720D7,2013B2,2250B2,2500B4]
+
 boolean USB_DEBUG = true;
 // Version
-const char versionNumber[] = "V3_2019_005_03";
+const char versionNumber[] = "V1_2020_01_21";
 const char fileName[] = __FILE__;
 const char compileDate[] = __DATE__;
 
@@ -45,7 +47,7 @@ const int PortAddress[8]= {B0000000,B00000010,B00000100,B00001000,B00010000,B001
 byte NBsequence = 0;
 
 #include <SoftwareSerial.h> 
-SoftwareSerial BTserial(18, 19); // RX, TX
+//SoftwareSerial BTserial(18, 19); // RX, TX
 
 void setup() {
     sequenceReset();
@@ -63,7 +65,9 @@ void setup() {
      Serial.println("");
    }
 
-     BTserial.begin(9600);  
+    // BTserial.begin(9600); 
+
+
 
     // status LEDs
     digitalWrite(LED_ACTIVE_PIN, HIGH); 

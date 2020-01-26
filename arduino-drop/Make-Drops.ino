@@ -16,24 +16,27 @@ void runSequence()
     {}
     StartTime = millis();
     byte cmd = 0;
+
     while (!done)
     {
       if (millis() - StartTime >= sequenceMillis[cmd]){
-        ++cmd;
-        PORTB = sequencePortB[cmd]; 
+        
+        PORTB = sequencePortB[cmd];
         PORTD = sequencePortD[cmd];
+        //Serial.println(sequencePortD[cmd]);
         realMillis[cmd]=millis()-StartTime;
+        cmd++;
       }
-      if (cmd >= NBsequence) {
+      if (cmd >= NBsequence + 1) {
         done = true;
       }
     
   }
   PORTD = B00000000;
   PORTB = B000000;
-  
-  for (int i = 0; i < NBsequence; i++) {
-    BTserial.println(String(realMillis[i]));
+  Serial.println("Sequence finished");
+  for (int i = 0; i < NBsequence + 1; i++) {
+    //BTserial.println(String(realMillis[i]));
     Serial.println(String(realMillis[i]));}
  
 }

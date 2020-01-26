@@ -38,6 +38,7 @@ void storeSequence()
       if (receivedChars[n] == ',') {
         NBsequence++;
         temp = "";
+
       }
       else if (receivedChars[n]== 'B') {  
             sequenceMillis[NBsequence] = temp.toInt();
@@ -45,13 +46,19 @@ void storeSequence()
             int change = PortAddress[add];
             String port = String(receivedChars[n]);
             sequencePortB[NBsequence]=sequencePortB[NBsequence-1] ^ change ; 
+            sequencePortD[NBsequence]=sequencePortD[NBsequence-1] ^ sequencePortD[NBsequence] ;
       } else if (receivedChars[n]== 'D') {
             sequenceMillis[NBsequence] = temp.toInt();
             byte add =  receivedChars[n+1] -48;
             int change = PortAddress[add];
             String port = String(receivedChars[n]);
-            sequencePortD[NBsequence]=sequencePortB[NBsequence-1] ^ change ; 
-     } else { temp = temp + String(receivedChars[n]);}
+            sequencePortD[NBsequence]=sequencePortD[NBsequence-1] ^ change ; 
+            sequencePortB[NBsequence]=sequencePortB[NBsequence-1] ^ sequencePortB[NBsequence] ;
+     } else { 
+            temp = temp + String(receivedChars[n]);
+            
+            
+            }
  }
 
 Serial.println("millis");
